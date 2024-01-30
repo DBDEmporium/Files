@@ -32303,6 +32303,51 @@
         "lastUpdatedAt": 1702582108,
         "objectId": "TW_outfit_01_04",
         "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_Head01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_Torso01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_Legs01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_Head01_P01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_Torso01_P01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_Legs01_P01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_PCharm001",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_PCharm002",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1706636979,
+        "objectId": "S40_PCharm003",
+        "quantity": 1
       }
     ]
   }
