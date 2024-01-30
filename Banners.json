@@ -1,49 +1,184 @@
 {
-    "code": 200,
-    "message": "OK",
-    "data": {
-        "playerId": "Emporier",
-        "inventory": [
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BDG_03",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BDG_04",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BNR_03",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BNR_04",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BDG_01",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BDG_02",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BNR_01",
-                "quantity": 1
-            },
-            {
-                "lastUpdatedAt": 1702582108,
-                "objectId": "YE_BNR_02",
-                "quantity": 1
-            }
-        ]
-    }
+   "code":200,
+   "message":"OK",
+   "data":{
+      "playerId":"Emporier",
+      "inventory":[
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BDG_03",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BDG_04",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BNR_03",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BNR_04",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BDG_01",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BDG_02",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BNR_01",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1702582108,
+            "objectId":"YE_BNR_02",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"YE_001",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"YE_002",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"YE_003",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"YE_004",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"YE_005",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"YE_006",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_03",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_04",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_05",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_06",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_07",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_08",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_09",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_10",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_11",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_12",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BDG_13",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_01",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_02",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_03",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_04",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_05",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_06",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_07",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_08",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_09",
+            "quantity":1
+         },
+         {
+            "lastUpdatedAt":1706636979,
+            "objectId":"ZO_BNR_10",
+            "quantity":1
+         }
+      ]
+   }
 }
