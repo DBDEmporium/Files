@@ -4881,6 +4881,30 @@
       {
          "itemId":"K34P03",
          "quantity":3
+      },
+      {
+         "itemId":"S41P01",
+         "quantity":3
+      },
+      {
+         "itemId":"S41P02",
+         "quantity":3
+      },
+      {
+         "itemId":"S41P03",
+         "quantity":3
+      },
+      {
+         "itemId":"K35P01",
+         "quantity":3
+      },
+      {
+         "itemId":"K35P02",
+         "quantity":3
+      },
+      {
+         "itemId":"K35P03",
+         "quantity":3
       }
    ],
    "legacyPrestigeLevel":3
