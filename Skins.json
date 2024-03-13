@@ -33634,7 +33634,7 @@
         "objectId": "S41_outfit_02_01",
         "quantity": 1
       },
-            {
+      {
         "lastUpdatedAt": 1710260434,
         "objectId": "S41_outfit_006",
         "quantity": 1
@@ -33642,6 +33642,36 @@
       {
         "lastUpdatedAt": 1710260434,
         "objectId": "S41_outfit_006_01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1710260434,
+        "objectId": "SwedenKiller_Mask021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1710260434,
+        "objectId": "SwedenKiller_Body021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1710260434,
+        "objectId": "SwedenKiller_W021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1710260434,
+        "objectId": "S24_Head021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1710260434,
+        "objectId": "S24_Torso021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1710260434,
+        "objectId": "S24_Legs021",
         "quantity": 1
       }
     ]
