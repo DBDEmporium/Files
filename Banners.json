@@ -413,6 +413,71 @@
           "lastUpdateAt": 1713895475,
           "objectId": "ZO_BNR_10",
           "quantity": 1
+        },
+        {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BDG_01",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BDG_02",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BDG_03",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BDG_04",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BDG_05",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BDG_06",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BDG_07",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BNR_01",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BNR_02",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BNR_03",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BNR_04",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BNR_05",
+          "quantity": 1
+        },
+         {
+          "lastUpdateAt": 1713895475,
+          "objectId": "CH_BNR_06",
+          "quantity": 1
         }
       ]
    }
