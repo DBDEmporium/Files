@@ -474,9 +474,14 @@
           "objectId": "CH_BNR_05",
           "quantity": 1
         },
-         {
+        {
           "lastUpdateAt": 1713895475,
           "objectId": "CH_BNR_06",
+          "quantity": 1
+        },
+        {
+          "lastUpdateAt": 1713895475,
+          "objectId": "DO_BDG_18",
           "quantity": 1
         }
       ]
