@@ -10,6 +10,66 @@
         "quantity": 1
       },
       {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "NK_Head032",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "NK_Torso032",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "NK_Legs032",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "SwedenSurvivor_Head026",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "SwedenSurvivor_Torso026",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "SwedenSurvivor_Legs026",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "K23_Head024",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "K23_Body024",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "K23_Weapon024",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "K32_Head010",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "K32_Body010",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "K32_W010",
+        "quantity": 1
+      },
+      {
         "lastUpdatedAt": 1721147191,
         "objectId": "S42_Accessory008",
         "quantity": 1
