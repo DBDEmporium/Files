@@ -16,6 +16,66 @@
       },
       {
         "lastUpdatedAt": 1702582108,
+        "objectId": "AV_Head024",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "AV_Torso024",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "AV_Legs024",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "DK_Head025",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "DK_Torso025",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "DK_Legs025",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "TC_Torso021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "TC_Legs021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "TC_W021",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "WI_Hair017",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "WI_Body017",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
+        "objectId": "WI_W017",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1702582108,
         "objectId": "NK_Torso032",
         "quantity": 1
       },
