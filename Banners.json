@@ -828,6 +828,196 @@
         "lastUpdateAt": 1713895475,
         "objectId": "EC_BDG_07",
         "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401132,
+        "objectId": "FU_001",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401222,
+        "objectId": "FU_002",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400883,
+        "objectId": "FU_003",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401200,
+        "objectId": "FU_004",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401253,
+        "objectId": "FU_005",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400943,
+        "objectId": "FU_006",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400939,
+        "objectId": "FU_007",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400784,
+        "objectId": "FU_008",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400846,
+        "objectId": "FU_009",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400916,
+        "objectId": "FU_010",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400834,
+        "objectId": "FU_011",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401129,
+        "objectId": "FU_012",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400836,
+        "objectId": "FU_BDG_01",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401281,
+        "objectId": "FU_BDG_02",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400932,
+        "objectId": "FU_BDG_04",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401032,
+        "objectId": "FU_BDG_05",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400833,
+        "objectId": "FU_BDG_06",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401166,
+        "objectId": "FU_BDG_07",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401018,
+        "objectId": "FU_BDG_08",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400987,
+        "objectId": "FU_BDG_09",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400949,
+        "objectId": "FU_BDG_10",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401090,
+        "objectId": "FU_BDG_11",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401153,
+        "objectId": "FU_BDG_12",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401019,
+        "objectId": "FU_BDG_13",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401197,
+        "objectId": "FU_BDG_16",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401254,
+        "objectId": "FU_BDG_17",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400997,
+        "objectId": "FU_BDG_18",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400864,
+        "objectId": "FU_BNR_01",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401019,
+        "objectId": "FU_BNR_02",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401210,
+        "objectId": "FU_BNR_03",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400778,
+        "objectId": "FU_BNR_04",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400888,
+        "objectId": "FU_BNR_05",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400951,
+        "objectId": "FU_BNR_06",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400823,
+        "objectId": "FU_BNR_07",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401244,
+        "objectId": "FU_BNR_08",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728400831,
+        "objectId": "FU_BNR_10",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401246,
+        "objectId": "FU_BNR_11",
+        "quantity": 1
+      },
+      {
+        "lastUpdateAt": 1728401250,
+        "objectId": "FU_BNR_12",
+        "quantity": 1
       }
     ]
   }
