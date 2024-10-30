@@ -39928,6 +39928,21 @@
         "lastUpdatedAt": 1729714880,
         "objectId": "TR_outfit_026",
         "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1729714880,
+        "objectId": "GK_W023",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1729714880,
+        "objectId": "GK_Body023",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1729714880,
+        "objectId": "GK_Head023",
+        "quantity": 1
       }
     ]
   }
