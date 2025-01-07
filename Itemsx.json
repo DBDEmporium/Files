@@ -1,0 +1,186 @@
+[
+  {
+    "Name": "@#K36_MagicItem_Bracers_NAME",
+    "itemId": "Item_Camper_K33MagicItem_Bracers"
+  },
+  {
+    "Name": "Boots of {0}",
+    "itemId": "Item_Camper_K33MagicItem_Boots"
+  },
+  {
+    "Name": "Eye Of Vecna",
+    "itemId": "Item_Camper_K33MagicItem_VecnaEye"
+  },
+  {
+    "Name": "Hand Of Vecna",
+    "itemId": "Item_Camper_K33MagicItem_VecnaHand"
+  },
+  {
+    "Name": "Candelabra",
+    "itemId": "FireflyLantern"
+  },
+  {
+    "Name": "Alex's Toolbox",
+    "itemId": "Item_Camper_AlexsToolbox"
+  },
+  {
+    "Name": "Map",
+    "itemId": "Item_Camper_BeigeMap"
+  },
+  {
+    "Name": "Broken Key",
+    "itemId": "Item_Camper_BrokenKey"
+  },
+  {
+    "Name": "Commodious Toolbox",
+    "itemId": "Item_Camper_CommodiousToolbox"
+  },
+  {
+    "Name": "Dull Key",
+    "itemId": "Item_Camper_DullKey"
+  },
+  {
+    "Name": "Engineer's Toolbox",
+    "itemId": "Item_Camper_EngineerToolbox"
+  },
+  {
+    "Name": "Chinese Firecracker",
+    "itemId": "Item_Camper_Firecracker_Chinese"
+  },
+  {
+    "Name": "Flashlight",
+    "itemId": "Item_Camper_Flashlight"
+  },
+  {
+    "Name": "Sport Flashlight",
+    "itemId": "Item_Camper_Flashlight02"
+  },
+  {
+    "Name": "Utility Flashlight",
+    "itemId": "Item_Camper_Flashlight03"
+  },
+  {
+    "Name": "Skeleton Key",
+    "itemId": "Item_Camper_Key"
+  },
+  {
+    "Name": "Mechanic's Toolbox",
+    "itemId": "Item_Camper_MechanicsToolbox"
+  },
+  {
+    "Name": "Camping Aid Kit",
+    "itemId": "Item_Camper_MedKit"
+  },
+  {
+    "Name": "First Aid Kit",
+    "itemId": "Item_Camper_MedKit02"
+  },
+  {
+    "Name": "Emergency Med-kit",
+    "itemId": "Item_Camper_MedKit03"
+  },
+  {
+    "Name": "Ranger Med-kit",
+    "itemId": "Item_Camper_MedKit04"
+  },
+  {
+    "Name": "Rainbow Map",
+    "itemId": "Item_Camper_RainbowMap"
+  },
+  {
+    "Name": "Toolbox",
+    "itemId": "Item_Camper_Toolbox"
+  },
+  {
+    "Name": "Worn-out Tools",
+    "itemId": "Item_Camper_WornoutToolbox"
+  },
+  {
+    "Name": "Masquerade Flashlight",
+    "itemId": "Item_Camper_Flashlight_Anniversary2022"
+  },
+  {
+    "Name": "Masquerade Med-Kit",
+    "itemId": "Item_Camper_Medkit_Anniversary2022"
+  },
+  {
+    "Name": "Masquerade Toolbox",
+    "itemId": "Item_Camper_Toolbox_Anniversary2022"
+  },
+  {
+    "Name": "Bloodsense Map",
+    "itemId": "Item_Camper_Map_Spring2024"
+  },
+  {
+    "Name": "Void Crystal",
+    "itemId": "Item_Camper_VoidBomb_Halloween2024"
+  },
+  {
+    "Name": "@#ITEM_OnryoTape_Name",
+    "itemId": "FakeItem_Camper_OnryoTape"
+  },
+  {
+    "Name": "Anniversary Flashlight",
+    "itemId": "Item_Camper_Flashlight_Anniversary2020"
+  },
+  {
+    "Name": "Anniversary Med-kit",
+    "itemId": "Item_Camper_Medkit_Anniversary2020"
+  },
+  {
+    "Name": "Will O' Wisp",
+    "itemId": "Item_Camper_Flashlight04"
+  },
+  {
+    "Name": "All Hallows' Eve Lunchbox",
+    "itemId": "Item_Camper_Medkit05"
+  },
+  {
+    "Name": "Winter Party Starter",
+    "itemId": "Item_Camper_Firecracker_WinterEvent"
+  },
+  {
+    "Name": "Vaccine",
+    "itemId": "Item_Camper_ContaminationSerum"
+  },
+  {
+    "Name": "Flash Grenade",
+    "itemId": "Item_Camper_Firecracker_Flashbang"
+  },
+  {
+    "Name": "First Aid Spray",
+    "itemId": "Item_Camper_K29InfectionRemover"
+  },
+  {
+    "Name": "Festive Toolbox",
+    "itemId": "Item_Camper_LunarToolbox"
+  },
+  {
+    "Name": "EMP",
+    "itemId": "Item_Camper_K32Emp"
+  },
+  {
+    "Name": "",
+    "itemId": "Item_Blighted_Serum"
+  },
+  {
+    "Name": "Anniversary Toolbox",
+    "itemId": "Item_Camper_AnniversaryToolbox"
+  },
+  {
+    "Name": "Pocket Mirror",
+    "itemId": "Item_FragileObject"
+  },
+  {
+    "Name": "Third Year Party Starter",
+    "itemId": "Item_Camper_Firecracker_Anniversary2019"
+  },
+  {
+    "Name": "Remote Flame Turret",
+    "itemId": "Item_Camper_K33Turret"
+  },
+  {
+    "Name": "Keycard",
+    "itemId": "Father_Key_Card"
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "Name": "Bone Splinter",
+    "itemId": "BoneSplinter"
+  },
+  {
+    "Name": "Ardent Raven Wreath",
+    "itemId": "ArdentRavenWreath"
+  },
+  {
+    "Name": "Ardent Shrike Wreath",
+    "itemId": "ArdentShrikeWreath"
+  },
+  {
+    "Name": "Ardent Spotted Owl Wreath",
+    "itemId": "ArdentSpottedowlWreath"
+  },
+  {
+    "Name": "Ardent Tanager Wreath",
+    "itemId": "ArdentTanagerWreath"
+  },
+  {
+    "Name": "Azarov's Key",
+    "itemId": "AzarovKey"
+  },
+  {
+    "Name": "Black Salt Statuette",
+    "itemId": "BlackSaltStatuette"
+  },
+  {
+    "Name": "Black Ward",
+    "itemId": "BlackWard"
+  },
+  {
+    "Name": "Bog Laurel Sachet",
+    "itemId": "BogLaurelSachet"
+  },
+  {
+    "Name": "Bound Envelope",
+    "itemId": "BoundEnvelope"
+  },
+  {
+    "Name": "Cattle Tag-28",
+    "itemId": "CattleTag28"
+  },
+  {
+    "Name": "Chalk Pouch",
+    "itemId": "ChalkPouch"
+  },
+  {
+    "Name": "Charred Wedding Photograph",
+    "itemId": "CharredWeddingPhotograph"
+  },
+  {
+    "Name": "Clear Reagent",
+    "itemId": "ClearReagent"
+  },
+  {
+    "Name": "Coldwind Cattle Tag-81",
+    "itemId": "ColdwindCattleTag81"
+  },
+  {
+    "Name": "Cream Chalk Pouch",
+    "itemId": "CreamChalkPouch"
+  },
+  {
+    "Name": "Crescent Moon Bouquet",
+    "itemId": "CrescentMoonBouquet"
+  },
+  {
+    "Name": "Crispleaf Amaranth Sachet",
+    "itemId": "CrispleafAmaranthSachet"
+  },
+  {
+    "Name": "Cut Coin",
+    "itemId": "CutCoin"
+  },
+  {
+    "Name": "Cypress Memento Mori",
+    "itemId": "CypressMementoMori"
+  },
+  {
+    "Name": "Devout Raven Wreath",
+    "itemId": "DevoutRavenWreath"
+  },
+  {
+    "Name": "Devout Shrike Wreath",
+    "itemId": "DevoutShrikeWreath"
+  },
+  {
+    "Name": "Devout Spotted Owl Wreath",
+    "itemId": "DevoutSpottedowlWreath"
+  },
+  {
+    "Name": "Devout Tanager Wreath",
+    "itemId": "DevoutTanagerWreath"
+  },
+  {
+    "Name": "Ebony Memento Mori",
+    "itemId": "EbonyMementoMori"
+  },
+  {
+    "Name": "Faint Reagent",
+    "itemId": "FaintReagent"
+  },
+  {
+    "Name": "Fragrant Bog Laurel",
+    "itemId": "FragrantBogLaurel"
+  },
+  {
+    "Name": "Fragrant Crispleaf Amaranth",
+    "itemId": "FragrantCrispleafAmaranth"
+  },
+  {
+    "Name": "Fragrant Primrose Blossom",
+    "itemId": "FragrantPrimroseBlossom"
+  },
+  {
+    "Name": "Fragrant Sweet William",
+    "itemId": "FragrantSweetWilliam"
+  },
+  {
+    "Name": "Fresh Bog Laurel",
+    "itemId": "FreshBogLaurel"
+  },
+  {
+    "Name": "Fresh Crispleaf Amaranth",
+    "itemId": "FreshCrispleafAmaranth"
+  },
+  {
+    "Name": "Fresh Primrose Blossom",
+    "itemId": "FreshPrimroseBlossom"
+  },
+  {
+    "Name": "Fresh Sweet William",
+    "itemId": "FreshSweetWilliam"
+  },
+  {
+    "Name": "Full Moon Bouquet",
+    "itemId": "FullMoonBouquet"
+  },
+  {
+    "Name": "Hazy Reagent",
+    "itemId": "HazyReagent"
+  },
+  {
+    "Name": "Heart Locket",
+    "itemId": "HeartLocket"
+  },
+  {
+    "Name": "Hollow Shell",
+    "itemId": "HollowShell"
+  },
+  {
+    "Name": "Ivory Chalk Pouch",
+    "itemId": "IvoryChalkPouch"
+  },
+  {
+    "Name": "Ivory Memento Mori",
+    "itemId": "IvoryMementoMori"
+  },
+  {
+    "Name": "Lunacy Ticket",
+    "itemId": "LunacyTicket"
+  },
+  {
+    "Name": "MacMillan Ledger Page",
+    "itemId": "MacmillanLedgerPage"
+  },
+  {
+    "Name": "MacMillan's Phalanx Bone",
+    "itemId": "MacMillanPhalanxBone"
+  },
+  {
+    "Name": "Moldy Oak",
+    "itemId": "MoldyOak"
+  },
+  {
+    "Name": "Murky Reagent",
+    "itemId": "MurkyReagent"
+  },
+  {
+    "Name": "New Moon Bouquet",
+    "itemId": "NewMoonBouquet"
+  },
+  {
+    "Name": "P.Elliott Lunacy Ticket",
+    "itemId": "PElliotLunacyTicket"
+  },
+  {
+    "Name": "Petrified Oak",
+    "itemId": "PetrifiedOak"
+  },
+  {
+    "Name": "Primrose Blossom Sachet",
+    "itemId": "PrimroseBlossomSachet"
+  },
+  {
+    "Name": "Putrid Oak",
+    "itemId": "PutridOak"
+  },
+  {
+    "Name": "Quarter Moon Bouquet",
+    "itemId": "QuarterMoonBouquet"
+  },
+  {
+    "Name": "Raven Wreath",
+    "itemId": "RavenWreath"
+  },
+  {
+    "Name": "Rotten Oak",
+    "itemId": "RottenOak"
+  },
+  {
+    "Name": "Salt Pouch",
+    "itemId": "SaltPouch"
+  },
+  {
+    "Name": "Scratched Coin",
+    "itemId": "ScratchedCoin"
+  },
+  {
+    "Name": "Sealed Envelope",
+    "itemId": "SealedEnvelope"
+  },
+  {
+    "Name": "Shiny Coin",
+    "itemId": "ShinyCoin"
+  },
+  {
+    "Name": "Shredded Plate",
+    "itemId": "ShreddedPlate"
+  },
+  {
+    "Name": "Shrike Wreath",
+    "itemId": "ShrikeWreath"
+  },
+  {
+    "Name": "Shroud of Binding",
+    "itemId": "ShroudofBinding"
+  },
+  {
+    "Name": "Shroud of Separation",
+    "itemId": "ShroudofSeparation"
+  },
+  {
+    "Name": "Shroud of Union",
+    "itemId": "ShroudofUnion"
+  },
+  {
+    "Name": "Signed Ledger Page",
+    "itemId": "SignedLedgerPage"
+  },
+  {
+    "Name": "Spotted Owl Wreath",
+    "itemId": "SpottedOwlWreath"
+  },
+  {
+    "Name": "Sweet William Sachet",
+    "itemId": "SweetWilliamSachet"
+  },
+  {
+    "Name": "Tanager Wreath",
+    "itemId": "TanagerWreath"
+  },
+  {
+    "Name": "Tarnished Coin",
+    "itemId": "TarnishedCoin"
+  },
+  {
+    "Name": "Vigo's Shroud",
+    "itemId": "VigosShroud"
+  },
+  {
+    "Name": "Virginia Plate",
+    "itemId": "VirginiaPlate"
+  },
+  {
+    "Name": "White Ward",
+    "itemId": "WhiteWard"
+  },
+  {
+    "Name": "Vigo's Jar of Salty Lips",
+    "itemId": "VigosJarOfSaltyLips"
+  },
+  {
+    "Name": "Muddy Splinter",
+    "itemId": "MuddySplinter"
+  },
+  {
+    "Name": "Fuming Cordage",
+    "itemId": "FumingCordage"
+  },
+  {
+    "Name": "Fuming Welcome Sign",
+    "itemId": "FumingWelcomeSign"
+  },
+  {
+    "Name": "Grandma's Cookbook",
+    "itemId": "GranmasCookbook"
+  },
+  {
+    "Name": "Escape! Cake",
+    "itemId": "EscapeCake"
+  },
+  {
+    "Name": "Survivor Pudding",
+    "itemId": "SurvivorPudding"
+  },
+  {
+    "Name": "Bloody Party Streamers",
+    "itemId": "BloodyPartyStreamers"
+  },
+  {
+    "Name": "Gruesome Gateau",
+    "itemId": "Anniversary2019Offering"
+  },
+  {
+    "Name": "SCREECH COBBLER",
+    "itemId": "Anniversary2024Offering"
+  },
+  {
+    "Name": "Bloodshot Eye",
+    "itemId": "Spring2024Offering"
+  },
+  {
+    "Name": "Frightful Flan",
+    "itemId": "Anniversary2022Offering"
+  },
+  {
+    "Name": "TERRORMISU",
+    "itemId": "Anniversary2023Offering"
+  },
+  {
+    "Name": "MISTLE TOES",
+    "itemId": "Winter2024Offering"
+  },
+  {
+    "Name": "Arcane Dowsing Rod",
+    "itemId": "Halloween2022Offering"
+  },
+  {
+    "Name": "BBQ Invitation",
+    "itemId": "SummerOffering"
+  },
+  {
+    "Name": "Ghastly Gateau",
+    "itemId": "Anniversary2020Offering"
+  },
+  {
+    "Name": "Cursed Seed",
+    "itemId": "Halloween2021Offering"
+  },
+  {
+    "Name": "Shock Splinter",
+    "itemId": "ShockSplinter"
+  },
+  {
+    "Name": "Emergency Certificate",
+    "itemId": "EmergencyCertificate"
+  },
+  {
+    "Name": "Psychiatric Assessment Report",
+    "itemId": "PsychiatricAssessmentReport"
+  },
+  {
+    "Name": "Shattered Glasses",
+    "itemId": "ShatteredGlasses"
+  },
+  {
+    "Name": "Sacrificial Cake",
+    "itemId": "Anniversary2021Offering"
+  },
+  {
+    "Name": "Mary’s Letter",
+    "itemId": "WalesThemeOffering"
+  },
+  {
+    "Name": "Shattered Bottle",
+    "itemId": "UkraineThemeOffering"
+  },
+  {
+    "Name": "Black Splinter",
+    "itemId": "BlackSplinter"
+  },
+  {
+    "Name": "Strode Realty Key",
+    "itemId": "StrodeRealtyKey"
+  },
+  {
+    "Name": "Decrepit Clapboard",
+    "itemId": "DecrepitClapboard"
+  },
+  {
+    "Name": "Harvest Festival Leaflet",
+    "itemId": "HarvestFestivalLeaflet"
+  },
+  {
+    "Name": "RPD Badge",
+    "itemId": "EclipseThemeOffering"
+  },
+  {
+    "Name": "Red Envelope",
+    "itemId": "RedMoney"
+  },
+  {
+    "Name": "Pustula Petals",
+    "itemId": "HalloweenOffering"
+  },
+  {
+    "Name": "Painted River Rock",
+    "itemId": "PaintedRiverRock"
+  },
+  {
+    "Name": "Children's Book",
+    "itemId": "ChildrensBook"
+  },
+  {
+    "Name": "The Last Mask",
+    "itemId": "TheLastMask"
+  },
+  {
+    "Name": "Glass Splinter",
+    "itemId": "GlassSplinter"
+  },
+  {
+    "Name": "Jigsaw Piece",
+    "itemId": "Jigsawpiece"
+  },
+  {
+    "Name": "Damaged Photo",
+    "itemId": "KenyaThemeOffering"
+  },
+  {
+    "Name": "Smoking Splinter",
+    "itemId": "SmokingSplinter"
+  },
+  {
+    "Name": "The Pied Piper",
+    "itemId": "ThePiedPiper"
+  },
+  {
+    "Name": "Beef Tallow Mixture",
+    "itemId": "QuantumThemeOffering"
+  },
+  {
+    "Name": "Yamaoka Family Crest",
+    "itemId": "JapaneseCountrySide"
+  },
+  {
+    "Name": "Crow's Eye",
+    "itemId": "IonThemeOffering"
+  },
+  {
+    "Name": "Airlock Doors",
+    "itemId": "WormholeThemeOffering"
+  },
+  {
+    "Name": "Alien Flora",
+    "itemId": "UmbraThemeOffering"
+  },
+  {
+    "Name": "Hawkins National Laboratory I.D. ",
+    "itemId": "QatarThemeOffering"
+  },
+  {
+    "Name": "Ichorous Loam",
+    "itemId": "MeteorThemeOffering"
+  },
+  {
+    "Name": "Sacrificial Ward",
+    "itemId": "SacrificalWard"
+  },
+  {
+    "Name": "Torn Blueprint",
+    "itemId": "TornBlueprint"
+  },
+  {
+    "Name": "Bloodied Blueprint",
+    "itemId": "BloodiedBlueprint"
+  },
+  {
+    "Name": "Vigo’s Blueprint",
+    "itemId": "VigosBlueprint"
+  },
+  {
+    "Name": "Annotated Blueprint",
+    "itemId": "AnnotatedBlueprint"
+  }
+]

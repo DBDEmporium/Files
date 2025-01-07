@@ -1,0 +1,3318 @@
+[
+  {
+    "Name": "High-end Sapphire lens",
+    "itemId": "ADDON_flashlight_highendsapphire"
+  },
+  {
+    "Name": "Intense Halogen",
+    "itemId": "ADDON_flashlight_intensehalogen"
+  },
+  {
+    "Name": "Long Life Battery",
+    "itemId": "ADDON_flashlight_lonflifebattery"
+  },
+  {
+    "Name": "Odd Bulb",
+    "itemId": "ADDON_flashlight_oddbulb"
+  },
+  {
+    "Name": "Rubber Grip",
+    "itemId": "ADDON_flashlight_rubbergrip"
+  },
+  {
+    "Name": "Abdominal Dressing",
+    "itemId": "ADDON_medkit_abdominaldressing"
+  },
+  {
+    "Name": "Gauze Roll",
+    "itemId": "ADDON_medkit_gauzeroll"
+  },
+  {
+    "Name": "Needle & Thread",
+    "itemId": "ADDON_medkit_needleandthread"
+  },
+  {
+    "Name": "Self Adherent Wrap",
+    "itemId": "ADDON_medkit_selfadherentwrap"
+  },
+  {
+    "Name": "Surgical Suture",
+    "itemId": "ADDON_medkit_surgicalsuture"
+  },
+  {
+    "Name": "Cutting Wire",
+    "itemId": "ADDON_toolbox_cuttingwire"
+  },
+  {
+    "Name": "Socket Swivels",
+    "itemId": "ADDON_toolbox_socketswivels"
+  },
+  {
+    "Name": "Spring Clamp",
+    "itemId": "ADDON_toolbox_springclamp"
+  },
+  {
+    "Name": "Bloody Coil",
+    "itemId": "ADDON_trap_BloodyCoil"
+  },
+  {
+    "Name": "Iridescent Stone",
+    "itemId": "ADDON_trap_DiamondStone"
+  },
+  {
+    "Name": "Oily Coil",
+    "itemId": "ADDON_trap_OilyCoil"
+  },
+  {
+    "Name": "Rusted Jaws",
+    "itemId": "ADDON_trap_RustedJaw"
+  },
+  {
+    "Name": "Tension Spring",
+    "itemId": "ADDON_trap_StitchedBag"
+  },
+  {
+    "Name": "Coffee Grounds",
+    "itemId": "ADDON_trap_TrapSetters"
+  },
+  {
+    "Name": "Bear Oil",
+    "itemId": "Addon_Beartrap_TrapperSack"
+  },
+  {
+    "Name": "Honing Stone",
+    "itemId": "Addon_Beartrap_001"
+  },
+  {
+    "Name": "Serrated Jaws",
+    "itemId": "Addon_Beartrap_002"
+  },
+  {
+    "Name": "Trapper Bag",
+    "itemId": "Addon_Beartrap_003"
+  },
+  {
+    "Name": "Wax Brick",
+    "itemId": "Addon_Beartrap_004"
+  },
+  {
+    "Name": "Lengthened Jaws",
+    "itemId": "Addon_Beartrap_005"
+  },
+  {
+    "Name": "Tar Bottle",
+    "itemId": "Addon_Beartrap_006"
+  },
+  {
+    "Name": "Makeshift Wrap",
+    "itemId": "Addon_Beartrap_007"
+  },
+  {
+    "Name": "4-Coil Spring Kit",
+    "itemId": "Addon_Beartrap_008"
+  },
+  {
+    "Name": "Trapper Sack",
+    "itemId": "Addon_Beartrap_009"
+  },
+  {
+    "Name": "Trapper Gloves",
+    "itemId": "Addon_Beartrap_010"
+  },
+  {
+    "Name": "Secondary Coil",
+    "itemId": "Addon_Beartrap_011"
+  },
+  {
+    "Name": "Fastening Tools",
+    "itemId": "Addon_Beartrap_012"
+  },
+  {
+    "Name": "Padded Jaws",
+    "itemId": "Addon_Beartrap_PaddedJaws"
+  },
+  {
+    "Name": "@#ADDON_firecracker_blackpowder_NAME",
+    "itemId": "Addon_Firecracker_BlackPowder"
+  },
+  {
+    "Name": "@#ADDON_firecracker_buckshot_NAME",
+    "itemId": "Addon_Firecracker_BuckShot"
+  },
+  {
+    "Name": "@#ADDON_firecracker_flashpowder_NAME",
+    "itemId": "Addon_Firecracker_FlashPowder"
+  },
+  {
+    "Name": "@#ADDON_firecracker_gunpowder_NAME",
+    "itemId": "Addon_Firecracker_GunPowder"
+  },
+  {
+    "Name": "@#ADDON_firecracker_largepack_NAME",
+    "itemId": "Addon_Firecracker_LargePack"
+  },
+  {
+    "Name": "@#ADDON_firecracker_longfuse_NAME",
+    "itemId": "Addon_Firecracker_LongFuse"
+  },
+  {
+    "Name": "@#ADDON_firecracker_magnesiumpowder_NAME",
+    "itemId": "Addon_Firecracker_MagnesiumPowder"
+  },
+  {
+    "Name": "@#ADDON_firecracker_mediumfuse_NAME",
+    "itemId": "Addon_Firecracker_MediumFuse"
+  },
+  {
+    "Name": "Battery",
+    "itemId": "Addon_Flashlight_001"
+  },
+  {
+    "Name": "Heavy Duty Battery",
+    "itemId": "Addon_Flashlight_002"
+  },
+  {
+    "Name": "Focus Lens",
+    "itemId": "Addon_Flashlight_003"
+  },
+  {
+    "Name": "Wide Lens",
+    "itemId": "Addon_Flashlight_004"
+  },
+  {
+    "Name": "Power Bulb",
+    "itemId": "Addon_Flashlight_005"
+  },
+  {
+    "Name": "TIR Optic",
+    "itemId": "Addon_Flashlight_006"
+  },
+  {
+    "Name": "Low Amp Filament",
+    "itemId": "Addon_Flashlight_007"
+  },
+  {
+    "Name": "Leather Grip",
+    "itemId": "Addon_Flashlight_008"
+  },
+  {
+    "Name": "Prayer Rope",
+    "itemId": "Addon_Key_001"
+  },
+  {
+    "Name": "Prayer Beads",
+    "itemId": "Addon_Key_002"
+  },
+  {
+    "Name": "Eroded Token",
+    "itemId": "Addon_Key_003"
+  },
+  {
+    "Name": "Gold Token",
+    "itemId": "Addon_Key_004"
+  },
+  {
+    "Name": "Blood Amber",
+    "itemId": "Addon_Key_005"
+  },
+  {
+    "Name": "Milky Glass",
+    "itemId": "Addon_Key_006"
+  },
+  {
+    "Name": "Weaved Ring",
+    "itemId": "Addon_Key_007"
+  },
+  {
+    "Name": "Scratched Pearl",
+    "itemId": "Addon_Key_008"
+  },
+  {
+    "Name": "Unique Wedding Ring",
+    "itemId": "Addon_Key_WeddingRing"
+  },
+  {
+    "Name": "Map Addendum",
+    "itemId": "Addon_Map_001"
+  },
+  {
+    "Name": "Retardant Jelly",
+    "itemId": "Addon_Map_002"
+  },
+  {
+    "Name": "Glass Bead",
+    "itemId": "Addon_Map_003"
+  },
+  {
+    "Name": "Crystal Bead",
+    "itemId": "Addon_Map_004"
+  },
+  {
+    "Name": "Odd Stamp",
+    "itemId": "Addon_Map_005"
+  },
+  {
+    "Name": "Unusual Stamp",
+    "itemId": "Addon_Map_006"
+  },
+  {
+    "Name": "Black Silk Cord",
+    "itemId": "Addon_Map_007"
+  },
+  {
+    "Name": "Red Twine",
+    "itemId": "Addon_Map_008"
+  },
+  {
+    "Name": "Yellow Wire",
+    "itemId": "Addon_Map_009"
+  },
+  {
+    "Name": "Bandages",
+    "itemId": "Addon_Medkit_001"
+  },
+  {
+    "Name": "Gel Dressings",
+    "itemId": "Addon_Medkit_002"
+  },
+  {
+    "Name": "Medical Scissors",
+    "itemId": "Addon_Medkit_003"
+  },
+  {
+    "Name": "Butterfly Tape",
+    "itemId": "Addon_Medkit_004"
+  },
+  {
+    "Name": "Sponge",
+    "itemId": "Addon_Medkit_005"
+  },
+  {
+    "Name": "Rubber Gloves",
+    "itemId": "Addon_Medkit_006"
+  },
+  {
+    "Name": "Styptic Agent",
+    "itemId": "Addon_Medkit_007"
+  },
+  {
+    "Name": "Anti-Hemorrhagic Syringe",
+    "itemId": "Addon_Medkit_008"
+  },
+  {
+    "Name": "Bloodied Mud",
+    "itemId": "Addon_PhantomTrap_BloodiedMud"
+  },
+  {
+    "Name": "Bloodied Water",
+    "itemId": "Addon_PhantomTrap_BloodiedWater"
+  },
+  {
+    "Name": "Bog Water",
+    "itemId": "Addon_PhantomTrap_BogWater"
+  },
+  {
+    "Name": "Cracked Turtle Egg",
+    "itemId": "Addon_PhantomTrap_CrackedTurtleEgg"
+  },
+  {
+    "Name": "Cypress Necklet",
+    "itemId": "Addon_PhantomTrap_CypressNecklet"
+  },
+  {
+    "Name": "Dead Fly Mud",
+    "itemId": "Addon_PhantomTrap_DeadFlyMud"
+  },
+  {
+    "Name": "Disfigured Ear",
+    "itemId": "Addon_PhantomTrap_DisfiguredEar"
+  },
+  {
+    "Name": "Dragonfly Wings",
+    "itemId": "Addon_PhantomTrap_DragonflyWings"
+  },
+  {
+    "Name": "Dried Cicada",
+    "itemId": "Addon_PhantomTrap_DriedCicada"
+  },
+  {
+    "Name": "Granma's Heart",
+    "itemId": "Addon_PhantomTrap_GranmasHeart"
+  },
+  {
+    "Name": "Half Eggshell",
+    "itemId": "Addon_PhantomTrap_HalfEggshell"
+  },
+  {
+    "Name": "Mint Rag",
+    "itemId": "Addon_PhantomTrap_MintRag"
+  },
+  {
+    "Name": "Powdered Eggshell",
+    "itemId": "Addon_PhantomTrap_PowderedEggshell"
+  },
+  {
+    "Name": "Pussy Willow Catkins",
+    "itemId": "Addon_PhantomTrap_PussyWillowCatkins"
+  },
+  {
+    "Name": "Rope Necklet",
+    "itemId": "Addon_PhantomTrap_RopeNecklet"
+  },
+  {
+    "Name": "Rusty Shackles",
+    "itemId": "Addon_PhantomTrap_RustyShackles"
+  },
+  {
+    "Name": "Scarred Hand",
+    "itemId": "Addon_PhantomTrap_ScarredHand"
+  },
+  {
+    "Name": "Swamp Orchid Necklet",
+    "itemId": "Addon_PhantomTrap_SwampOrchidNecklet"
+  },
+  {
+    "Name": "Waterlogged Shoe",
+    "itemId": "Addon_PhantomTrap_WaterloggedShoe"
+  },
+  {
+    "Name": "Willow Wreath",
+    "itemId": "Addon_PhantomTrap_WillowWreath"
+  },
+  {
+    "Name": "Scraps",
+    "itemId": "Addon_Toolbox_001"
+  },
+  {
+    "Name": "Wire Spool",
+    "itemId": "Addon_Toolbox_002"
+  },
+  {
+    "Name": "Clean Rag",
+    "itemId": "Addon_Toolbox_003"
+  },
+  {
+    "Name": "Grip Wrench",
+    "itemId": "Addon_Toolbox_004"
+  },
+  {
+    "Name": "Hacksaw",
+    "itemId": "Addon_Toolbox_005"
+  },
+  {
+    "Name": "Protective Gloves",
+    "itemId": "Addon_Toolbox_006"
+  },
+  {
+    "Name": "Brand New Part",
+    "itemId": "Addon_Toolbox_007"
+  },
+  {
+    "Name": "Instructions",
+    "itemId": "Addon_Toolbox_008"
+  },
+  {
+    "Name": "Robin Feather",
+    "itemId": "Addon_GasBomb_01"
+  },
+  {
+    "Name": "Party Bottle",
+    "itemId": "Addon_GasBomb_02"
+  },
+  {
+    "Name": "Smelly Inner Soles",
+    "itemId": "Addon_GasBomb_03"
+  },
+  {
+    "Name": "Fingerless Parade Gloves",
+    "itemId": "Addon_GasBomb_04"
+  },
+  {
+    "Name": "Thick Cork Stopper",
+    "itemId": "Addon_GasBomb_05"
+  },
+  {
+    "Name": "Solvent Jug",
+    "itemId": "Addon_GasBomb_06"
+  },
+  {
+    "Name": "Kerosene Can",
+    "itemId": "Addon_GasBomb_07"
+  },
+  {
+    "Name": "Sticky Soda Bottle",
+    "itemId": "Addon_GasBomb_08"
+  },
+  {
+    "Name": "Starling Feather",
+    "itemId": "Addon_GasBomb_09"
+  },
+  {
+    "Name": "VHS Porn",
+    "itemId": "Addon_GasBomb_10"
+  },
+  {
+    "Name": "Spirit of Hartshorn",
+    "itemId": "Addon_GasBomb_11"
+  },
+  {
+    "Name": "Sulfuric Acid Vial",
+    "itemId": "Addon_GasBomb_12"
+  },
+  {
+    "Name": "Flask of Bleach",
+    "itemId": "Addon_GasBomb_13"
+  },
+  {
+    "Name": "Bottle of Chloroform",
+    "itemId": "Addon_GasBomb_14"
+  },
+  {
+    "Name": "Garish Makeup Kit",
+    "itemId": "Addon_GasBomb_15"
+  },
+  {
+    "Name": "Cheap Gin Bottle",
+    "itemId": "Addon_GasBomb_16"
+  },
+  {
+    "Name": "Ether 15 vol%",
+    "itemId": "Addon_GasBomb_17"
+  },
+  {
+    "Name": "Cigar Box",
+    "itemId": "Addon_GasBomb_18"
+  },
+  {
+    "Name": "Tattoo's Middle Finger",
+    "itemId": "Addon_GasBomb_19"
+  },
+  {
+    "Name": "@#Addon_GasBomb_19a_NAME",
+    "itemId": "Addon_GasBomb_19a"
+  },
+  {
+    "Name": "Redhead's Pinky Finger",
+    "itemId": "Addon_GasBomb_20"
+  },
+  {
+    "Name": "@#Addon_GasBomb_20a_NAME",
+    "itemId": "Addon_GasBomb_20a"
+  },
+  {
+    "Name": "@#Addon_GasBomb_20b_NAME",
+    "itemId": "Addon_GasBomb_20b"
+  },
+  {
+    "Name": "Broken Security Key",
+    "itemId": "Addon_K32_01"
+  },
+  {
+    "Name": "Heavy Water",
+    "itemId": "Addon_K32_02"
+  },
+  {
+    "Name": "Kid’s Ball Glove",
+    "itemId": "Addon_K32_03"
+  },
+  {
+    "Name": "Nutritional Slurry",
+    "itemId": "Addon_K32_04"
+  },
+  {
+    "Name": "Diagnostic Tool (Construction)",
+    "itemId": "Addon_K32_05"
+  },
+  {
+    "Name": "Diagnostic Tool (Repair)",
+    "itemId": "Addon_K32_06"
+  },
+  {
+    "Name": "Android Arm",
+    "itemId": "Addon_K32_07"
+  },
+  {
+    "Name": "Cremated Remains",
+    "itemId": "Addon_K32_08"
+  },
+  {
+    "Name": "Foreign Plant Fibers",
+    "itemId": "Addon_K32_09"
+  },
+  {
+    "Name": "Live Wires",
+    "itemId": "Addon_K32_10"
+  },
+  {
+    "Name": "Cryo Gel",
+    "itemId": "Addon_K32_11"
+  },
+  {
+    "Name": "Denied Requisition Form",
+    "itemId": "Addon_K32_12"
+  },
+  {
+    "Name": "Iridescent Crystal Shard",
+    "itemId": "Addon_K32_13"
+  },
+  {
+    "Name": "Ultrasonic Sensor",
+    "itemId": "Addon_K32_14"
+  },
+  {
+    "Name": "Spent Oxygen Tank",
+    "itemId": "Addon_K32_15"
+  },
+  {
+    "Name": "Nanomachine Gel",
+    "itemId": "Addon_K32_16"
+  },
+  {
+    "Name": "Hyperawareness Spray",
+    "itemId": "Addon_K32_17"
+  },
+  {
+    "Name": "Hologram Generator",
+    "itemId": "Addon_K32_18"
+  },
+  {
+    "Name": "Soma Family Photo",
+    "itemId": "Addon_K32_19"
+  },
+  {
+    "Name": "Crew Manifest",
+    "itemId": "Addon_K32_20"
+  },
+  {
+    "Name": "Rickety Chain",
+    "itemId": "Addon_Harpoon_RicketyChain"
+  },
+  {
+    "Name": "Spit Polish Rag ",
+    "itemId": "Addon_Harpoon_SpitPolishRag"
+  },
+  {
+    "Name": "Modified Ammo Belt ",
+    "itemId": "Addon_Harpoon_ModifiedAmmoBelt"
+  },
+  {
+    "Name": "Snake Oil ",
+    "itemId": "Addon_Harpoon_SnakeOil"
+  },
+  {
+    "Name": "Rusted Spike ",
+    "itemId": "Addon_Harpoon_RustedSpike"
+  },
+  {
+    "Name": "Jaw Smasher ",
+    "itemId": "Addon_Harpoon_JawSmasher"
+  },
+  {
+    "Name": "Chewing Tobacco",
+    "itemId": "Addon_Harpoon_ChewingTobacco"
+  },
+  {
+    "Name": "Poison Oak Leaves",
+    "itemId": "Addon_Harpoon_PoisonOakLeaves"
+  },
+  {
+    "Name": "Marshal's Badge ",
+    "itemId": "Addon_Harpoon_MarshalsBadge"
+  },
+  {
+    "Name": "Honey Locust Thorns ",
+    "itemId": "Addon_Harpoon_HoneyLocustThorns"
+  },
+  {
+    "Name": "Tin Oil Can ",
+    "itemId": "Addon_Harpoon_TinOilCan"
+  },
+  {
+    "Name": "Wanted Poster ",
+    "itemId": "Addon_Harpoon_WantedPoster"
+  },
+  {
+    "Name": "Warden’s Keys ",
+    "itemId": "Addon_Harpoon_WardensKeys"
+  },
+  {
+    "Name": "Bayshore’s Gold Tooth",
+    "itemId": "Addon_Harpoon_BayshoresGoldTooth"
+  },
+  {
+    "Name": "Bayshore’s Cigar",
+    "itemId": "Addon_Harpoon_BayshoresCigar"
+  },
+  {
+    "Name": "Barbed Wire",
+    "itemId": "Addon_Harpoon_BarbedWire"
+  },
+  {
+    "Name": "Gold Creek Whiskey",
+    "itemId": "Addon_Harpoon_ClearCreekWhiskey"
+  },
+  {
+    "Name": "Prison Chain",
+    "itemId": "Addon_Harpoon_PrisonChain"
+  },
+  {
+    "Name": "Hellshire Iron",
+    "itemId": "Addon_Harpoon_HellshireIron"
+  },
+  {
+    "Name": "Iridescent Coin",
+    "itemId": "Addon_Harpoon_IridescentCoin"
+  },
+  {
+    "Name": "Blight Serum",
+    "itemId": "Addon_Killer_Halloween2020"
+  },
+  {
+    "Name": "Broken Bulb",
+    "itemId": "Addon_Flashlight_BrokenBulb"
+  },
+  {
+    "Name": "Refined Serum",
+    "itemId": "Addon_Medkit_BlightedSyringe"
+  },
+  {
+    "Name": "Memento Blades",
+    "itemId": "Addon_Trickster_01"
+  },
+  {
+    "Name": "Trick Pouch",
+    "itemId": "Addon_Trickster_02"
+  },
+  {
+    "Name": "Killing Part Chords",
+    "itemId": "Addon_Trickster_03"
+  },
+  {
+    "Name": "Inferno Wires",
+    "itemId": "Addon_Trickster_04"
+  },
+  {
+    "Name": "Ji-Woon's Autograph",
+    "itemId": "Addon_Trickster_05"
+  },
+  {
+    "Name": "On Target Single",
+    "itemId": "Addon_Trickster_06"
+  },
+  {
+    "Name": "Lucky Blade",
+    "itemId": "Addon_Trickster_07"
+  },
+  {
+    "Name": "Caged Heart Shoes",
+    "itemId": "Addon_Trickster_08"
+  },
+  {
+    "Name": "Tequila Moonrock",
+    "itemId": "Addon_Trickster_09"
+  },
+  {
+    "Name": "Bloody Boa",
+    "itemId": "Addon_Trickster_10"
+  },
+  {
+    "Name": "Fizz-Spin Soda",
+    "itemId": "Addon_Trickster_11"
+  },
+  {
+    "Name": "Waiting for You Watch",
+    "itemId": "Addon_Trickster_12"
+  },
+  {
+    "Name": "Ripper Brace",
+    "itemId": "Addon_Trickster_13"
+  },
+  {
+    "Name": "Melodious Murder",
+    "itemId": "Addon_Trickster_14"
+  },
+  {
+    "Name": "Diamond Cufflinks",
+    "itemId": "Addon_Trickster_15"
+  },
+  {
+    "Name": "Edge of Revival Album",
+    "itemId": "Addon_Trickster_16"
+  },
+  {
+    "Name": "Trick Blades",
+    "itemId": "Addon_Trickster_17"
+  },
+  {
+    "Name": "Cut Thru U Single",
+    "itemId": "Addon_Trickster_18"
+  },
+  {
+    "Name": "Death Throes Compilation",
+    "itemId": "Addon_Trickster_19"
+  },
+  {
+    "Name": "Iridescent Photocard",
+    "itemId": "Addon_Trickster_20"
+  },
+  {
+    "Name": "Adi Valente #1",
+    "itemId": "Addon_K31_01"
+  },
+  {
+    "Name": "High-Power Floodlight",
+    "itemId": "Addon_K31_02"
+  },
+  {
+    "Name": "Geographical Readout",
+    "itemId": "Addon_K31_03"
+  },
+  {
+    "Name": "High Current Upgrade",
+    "itemId": "Addon_K31_04"
+  },
+  {
+    "Name": "Adaptive Lighting",
+    "itemId": "Addon_K31_05"
+  },
+  {
+    "Name": "Stereo Remote Mic",
+    "itemId": "Addon_K31_06"
+  },
+  {
+    "Name": "Supercharge",
+    "itemId": "Addon_K31_07"
+  },
+  {
+    "Name": "Shotgun Speakers",
+    "itemId": "Addon_K31_08"
+  },
+  {
+    "Name": "Low-Power Mode",
+    "itemId": "Addon_K31_09"
+  },
+  {
+    "Name": "Powdered Glass",
+    "itemId": "Addon_K31_10"
+  },
+  {
+    "Name": "Vital Targeting Processor",
+    "itemId": "Addon_K31_11"
+  },
+  {
+    "Name": "Brown Noise Generator",
+    "itemId": "Addon_K31_12"
+  },
+  {
+    "Name": "Loose Screw",
+    "itemId": "Addon_K31_13"
+  },
+  {
+    "Name": "Infrared Upgrade",
+    "itemId": "Addon_K31_14"
+  },
+  {
+    "Name": "Randomized Strobes",
+    "itemId": "Addon_K31_15"
+  },
+  {
+    "Name": "Advanced Movement Prediction",
+    "itemId": "Addon_K31_16"
+  },
+  {
+    "Name": "Ultrasonic Speaker",
+    "itemId": "Addon_K31_17"
+  },
+  {
+    "Name": "Expired Batteries",
+    "itemId": "Addon_K31_18"
+  },
+  {
+    "Name": "Prototype Rotor",
+    "itemId": "Addon_K31_19"
+  },
+  {
+    "Name": "Iridescent Unpublished Manuscript",
+    "itemId": "Addon_K31_20"
+  },
+  {
+    "Name": "Cat Figurine",
+    "itemId": "Addon_K22Power_1"
+  },
+  {
+    "Name": "Tiny Fingernail",
+    "itemId": "Addon_K22Power_2"
+  },
+  {
+    "Name": "Soured Milk",
+    "itemId": "Addon_K22Power_3"
+  },
+  {
+    "Name": "Toy Sword",
+    "itemId": "Addon_K22Power_4"
+  },
+  {
+    "Name": "Cat’s Eye",
+    "itemId": "Addon_K22Power_5"
+  },
+  {
+    "Name": "Madeleine’s Glove",
+    "itemId": "Addon_K22Power_6"
+  },
+  {
+    "Name": "Bloody Black Hood",
+    "itemId": "Addon_K22Power_7"
+  },
+  {
+    "Name": "Ceremonial Candelabrum",
+    "itemId": "Addon_K22Power_8"
+  },
+  {
+    "Name": "Baby Teeth",
+    "itemId": "Addon_K22Power_9"
+  },
+  {
+    "Name": "Rusted Needle",
+    "itemId": "Addon_K22Power_10"
+  },
+  {
+    "Name": "Sewer Sludge",
+    "itemId": "Addon_K22Power_11"
+  },
+  {
+    "Name": "Madeleine’s Scarf",
+    "itemId": "Addon_K22Power_12"
+  },
+  {
+    "Name": "Stale Biscuit",
+    "itemId": "Addon_K22Power_13"
+  },
+  {
+    "Name": "Weighty Rattle",
+    "itemId": "Addon_K22Power_14"
+  },
+  {
+    "Name": "Forest Stew",
+    "itemId": "Addon_K22Power_15"
+  },
+  {
+    "Name": "Spinning Top",
+    "itemId": "Addon_K22Power_16"
+  },
+  {
+    "Name": "Drop of Perfume",
+    "itemId": "Addon_K22Power_17"
+  },
+  {
+    "Name": "Victor’s Soldier",
+    "itemId": "Addon_K22Power_18"
+  },
+  {
+    "Name": "Silencing Cloth",
+    "itemId": "Addon_K22Power_19"
+  },
+  {
+    "Name": "Iridescent Pendant",
+    "itemId": "Addon_K22Power_20"
+  },
+  {
+    "Name": "Gritty Lump",
+    "itemId": "Addon_K30_01"
+  },
+  {
+    "Name": "Map of the Realm",
+    "itemId": "Addon_K30_02"
+  },
+  {
+    "Name": "Tattered Tabard",
+    "itemId": "Addon_K30_03"
+  },
+  {
+    "Name": "Pillaged Mead",
+    "itemId": "Addon_K30_04"
+  },
+  {
+    "Name": "Dried Horsemeat",
+    "itemId": "Addon_K30_05"
+  },
+  {
+    "Name": "Battleaxe Head",
+    "itemId": "Addon_K30_06"
+  },
+  {
+    "Name": "Treated Blade",
+    "itemId": "Addon_K30_07"
+  },
+  {
+    "Name": "Cold Steel Manacles",
+    "itemId": "Addon_K30_08"
+  },
+  {
+    "Name": "Call To Arms",
+    "itemId": "Addon_K30_09"
+  },
+  {
+    "Name": "Sharpened Mount",
+    "itemId": "Addon_K30_10"
+  },
+  {
+    "Name": "Grim Iron Mask",
+    "itemId": "Addon_K30_11"
+  },
+  {
+    "Name": "Broken Hilt",
+    "itemId": "Addon_K30_12"
+  },
+  {
+    "Name": "Ironworker’s Tongs",
+    "itemId": "Addon_K30_13"
+  },
+  {
+    "Name": "Town Watch’s Torch",
+    "itemId": "Addon_K30_14"
+  },
+  {
+    "Name": "Blacksmith’s Hammer",
+    "itemId": "Addon_K30_15"
+  },
+  {
+    "Name": "Flint and Steel",
+    "itemId": "Addon_K30_16"
+  },
+  {
+    "Name": "Healing Poultice",
+    "itemId": "Addon_K30_17"
+  },
+  {
+    "Name": "Jailer's Chimes",
+    "itemId": "Addon_K30_18"
+  },
+  {
+    "Name": "Knight’s Contract",
+    "itemId": "Addon_K30_19"
+  },
+  {
+    "Name": "Iridescent Company Banner",
+    "itemId": "Addon_K30_20"
+  },
+  {
+    "Name": "Compound Seven ",
+    "itemId": "Addon_Rush_CompoundSeven"
+  },
+  {
+    "Name": "Chipped Monocle",
+    "itemId": "Addon_Rush_ChippedMonocle"
+  },
+  {
+    "Name": "Placebo Tablet ",
+    "itemId": "Addon_Rush_PlaceboTablet"
+  },
+  {
+    "Name": "Foxglove ",
+    "itemId": "Addon_Rush_Foxglove"
+  },
+  {
+    "Name": "Shredded Notes ",
+    "itemId": "Addon_Rush_ShreddedNotes"
+  },
+  {
+    "Name": "Pustula Dust ",
+    "itemId": "Addon_Rush_PustulaDust"
+  },
+  {
+    "Name": "Plague Bile",
+    "itemId": "Addon_Rush_PlagueBile"
+  },
+  {
+    "Name": "Canker Thorn",
+    "itemId": "Addon_Rush_CankerThorn"
+  },
+  {
+    "Name": "Blighted Rat ",
+    "itemId": "Addon_Rush_BlightedRat"
+  },
+  {
+    "Name": "Compound Twenty-One ",
+    "itemId": "Addon_Rush_CompoundTwentyOne"
+  },
+  {
+    "Name": "Rose Tonic ",
+    "itemId": "Addon_Rush_RoseTonic"
+  },
+  {
+    "Name": "Umbra Salts ",
+    "itemId": "Addon_Rush_UmbraSalts"
+  },
+  {
+    "Name": "Adrenaline Vial ",
+    "itemId": "Addon_Rush_AdrenalineVial"
+  },
+  {
+    "Name": "Blighted Crow ",
+    "itemId": "Addon_Rush_BlightedCrow"
+  },
+  {
+    "Name": "Alchemist’s Ring ",
+    "itemId": "Addon_Rush_AlchemistsRing"
+  },
+  {
+    "Name": "Summoning Stone ",
+    "itemId": "Addon_Rush_SummoningStone"
+  },
+  {
+    "Name": "Soul Chemical ",
+    "itemId": "Addon_Rush_SoulChemical"
+  },
+  {
+    "Name": "Vigo's Journal ",
+    "itemId": "Addon_Rush_VigosJournal"
+  },
+  {
+    "Name": "Compound Thirty-Three ",
+    "itemId": "Addon_Rush_CompoundThirtyThree"
+  },
+  {
+    "Name": "Iridescent Blight Tag",
+    "itemId": "Addon_Rush_IridescentBlightTag"
+  },
+  {
+    "Name": "Counterweight",
+    "itemId": "Addon_Chainsaw_002"
+  },
+  {
+    "Name": "Cracked Primer Bulb",
+    "itemId": "Addon_Chainsaw_011"
+  },
+  {
+    "Name": "Steel Toe Boots",
+    "itemId": "Addon_Chainsaw_005"
+  },
+  {
+    "Name": "Dad's Boots",
+    "itemId": "Addon_Chainsaw_001"
+  },
+  {
+    "Name": "Greased Throttle",
+    "itemId": "Addon_Chainsaw_003"
+  },
+  {
+    "Name": "Clogged Intake",
+    "itemId": "ADDON_Chainsaw_DeathEngravings"
+  },
+  {
+    "Name": "Off-Brand Motor Oil",
+    "itemId": "Addon_Chainsaw_012"
+  },
+  {
+    "Name": "Thermal Casing",
+    "itemId": "Addon_Chainsaw_004"
+  },
+  {
+    "Name": "Spiked Boots",
+    "itemId": "ADDON_Chainsaw_ThompsonMoonshine"
+  },
+  {
+    "Name": "Begrimed Chains",
+    "itemId": "Addon_Chainsaw_007"
+  },
+  {
+    "Name": "The Thompsons' Mix",
+    "itemId": "Addon_Chainsaw_006"
+  },
+  {
+    "Name": "Ragged Engine",
+    "itemId": "Addon_Chainsaw_008"
+  },
+  {
+    "Name": "Low Kickback Chains",
+    "itemId": "ADDON_Chainsaw_LightChassis"
+  },
+  {
+    "Name": "Discarded Air Filter",
+    "itemId": "Addon_Chainsaw_010"
+  },
+  {
+    "Name": "Lo Pro Chains",
+    "itemId": "Addon_Chainsaw_009"
+  },
+  {
+    "Name": "High-Speed Idler Screw",
+    "itemId": "ADDON_Chainsaw_ThompsonMix"
+  },
+  {
+    "Name": "Apex Muffler",
+    "itemId": "ADDON_Chainsaw_HomemadeMuffler"
+  },
+  {
+    "Name": "Filthy Slippers",
+    "itemId": "Addon_HillbillyChainsaw_IridescentBrick"
+  },
+  {
+    "Name": "Tuned Carburetor",
+    "itemId": "ADDON_Chainsaw_CarburatorGuide"
+  },
+  {
+    "Name": "Iridescent Engravings",
+    "itemId": "ADDON_Chainsaw_DoomEngravings"
+  },
+  {
+    "Name": "Zōri",
+    "itemId": "Addon_PhaseWalker_Zori"
+  },
+  {
+    "Name": "Shiawase Amulet",
+    "itemId": "Addon_PhaseWalker_ShiawaseAmulet"
+  },
+  {
+    "Name": "Gifted Bamboo Comb",
+    "itemId": "Addon_PhaseWalker_GiftedBambooComb"
+  },
+  {
+    "Name": "Origami Crane",
+    "itemId": "Addon_PhaseWalker_OrigamiCrane"
+  },
+  {
+    "Name": "Kaiun Talisman",
+    "itemId": "Addon_PhaseWalker_KaiunTalisman"
+  },
+  {
+    "Name": "White Hair Ribbon",
+    "itemId": "Addon_PhaseWalker_WhiteHairRibbon"
+  },
+  {
+    "Name": "Muddy Sports Day Cap",
+    "itemId": "Addon_PhaseWalker_MuddySportsDayCap"
+  },
+  {
+    "Name": "Juniper Bonsai",
+    "itemId": "Addon_PhaseWalker_JuniperBonsai"
+  },
+  {
+    "Name": "Rin's Broken Watch",
+    "itemId": "Addon_PhaseWalker_RinsBrokenWatch"
+  },
+  {
+    "Name": "Uchiwa",
+    "itemId": "Addon_PhaseWalker_DirtyUwabaki"
+  },
+  {
+    "Name": "Senko Hanabi",
+    "itemId": "Addon_PhaseWalker_KatsumoriTalisman"
+  },
+  {
+    "Name": "Mother's Glasses",
+    "itemId": "Addon_PhaseWalker_BloodyHairBrooch"
+  },
+  {
+    "Name": "Rusty Flute",
+    "itemId": "Addon_PhaseWalker_RustyFlute"
+  },
+  {
+    "Name": "Katana Tsuba",
+    "itemId": "Addon_PhaseWalker_KatanaTsuba"
+  },
+  {
+    "Name": "Yakuyoke Amulet",
+    "itemId": "Addon_PhaseWalker_YakuyokeAmulet"
+  },
+  {
+    "Name": "Dried Cherry Blossom",
+    "itemId": "Addon_PhaseWalker_DriedCherryBlossom"
+  },
+  {
+    "Name": "Furin",
+    "itemId": "Addon_PhaseWalker_PrayerBeadsBracelet"
+  },
+  {
+    "Name": "Wakizashi Saya",
+    "itemId": "Addon_PhaseWalker_WakizashiSaya"
+  },
+  {
+    "Name": "Mother-Daughter Ring",
+    "itemId": "Addon_PhaseWalker_MotherDaughterRing"
+  },
+  {
+    "Name": "Kintsugi Teacup",
+    "itemId": "Addon_PhaseWalker_FathersGlasses"
+  },
+  {
+    "Name": "Wooden Plank",
+    "itemId": "Addon_K28_01"
+  },
+  {
+    "Name": "Caffeine Tablets",
+    "itemId": "Addon_K28_02"
+  },
+  {
+    "Name": "Mortar and Pestle",
+    "itemId": "Addon_K28_03"
+  },
+  {
+    "Name": "Follower’s Cowl",
+    "itemId": "Addon_K28_04"
+  },
+  {
+    "Name": "Burnt Letters",
+    "itemId": "Addon_K28_05"
+  },
+  {
+    "Name": "Air Freshener",
+    "itemId": "Addon_K28_06"
+  },
+  {
+    "Name": "Haddie’s Calendar",
+    "itemId": "Addon_K28_07"
+  },
+  {
+    "Name": "Fallen Shingle",
+    "itemId": "Addon_K28_08"
+  },
+  {
+    "Name": "Malthinker’s Skull",
+    "itemId": "Addon_K28_09"
+  },
+  {
+    "Name": "Worry Stone",
+    "itemId": "Addon_K28_10"
+  },
+  {
+    "Name": "Ottomarian Writing",
+    "itemId": "Addon_K28_11"
+  },
+  {
+    "Name": "Broken Doll",
+    "itemId": "Addon_K28_12"
+  },
+  {
+    "Name": "War Helmet",
+    "itemId": "Addon_K28_13"
+  },
+  {
+    "Name": "Destroyed Pillow",
+    "itemId": "Addon_K28_14"
+  },
+  {
+    "Name": "Tilling Blade",
+    "itemId": "Addon_K28_15"
+  },
+  {
+    "Name": "Boat Key",
+    "itemId": "Addon_K28_16"
+  },
+  {
+    "Name": "Field Recorder",
+    "itemId": "Addon_K28_17"
+  },
+  {
+    "Name": "Lavalier Microphone",
+    "itemId": "Addon_K28_18"
+  },
+  {
+    "Name": "Sacrificial Knife",
+    "itemId": "Addon_K28_19"
+  },
+  {
+    "Name": "Iridescent Wooden Plank",
+    "itemId": "Addon_K28_20"
+  },
+  {
+    "Name": "Oil Paints",
+    "itemId": "Addon_K26Power_01"
+  },
+  {
+    "Name": "Vibrant Obituary",
+    "itemId": "Addon_K26Power_02"
+  },
+  {
+    "Name": "Thick Tar",
+    "itemId": "Addon_K26Power_03"
+  },
+  {
+    "Name": "Choclo Corn",
+    "itemId": "Addon_K26Power_04"
+  },
+  {
+    "Name": "Automatic Drawing",
+    "itemId": "Addon_K26Power_05"
+  },
+  {
+    "Name": "Festering Carrion",
+    "itemId": "Addon_K26Power_06"
+  },
+  {
+    "Name": "Velvet Fabric",
+    "itemId": "Addon_K26Power_07"
+  },
+  {
+    "Name": "Still Life Crow",
+    "itemId": "Addon_K26Power_08"
+  },
+  {
+    "Name": "Untitled Agony",
+    "itemId": "Addon_K26Power_09"
+  },
+  {
+    "Name": "Charcoal Stick",
+    "itemId": "Addon_K26Power_10"
+  },
+  {
+    "Name": "Darkest Ink",
+    "itemId": "Addon_K26Power_11"
+  },
+  {
+    "Name": "O Grief, O Lover",
+    "itemId": "Addon_K26Power_12"
+  },
+  {
+    "Name": "Thorny Nest",
+    "itemId": "Addon_K26Power_13"
+  },
+  {
+    "Name": "Silver Bell",
+    "itemId": "Addon_K26Power_14"
+  },
+  {
+    "Name": "Matias' Baby Shoes",
+    "itemId": "Addon_K26Power_15"
+  },
+  {
+    "Name": "Severed Tongue",
+    "itemId": "Addon_K26Power_16"
+  },
+  {
+    "Name": "Garden of Rot",
+    "itemId": "Addon_K26Power_17"
+  },
+  {
+    "Name": "Ink Egg",
+    "itemId": "Addon_K26Power_18"
+  },
+  {
+    "Name": "Severed Hands",
+    "itemId": "Addon_K26Power_19"
+  },
+  {
+    "Name": "Iridescent Feather",
+    "itemId": "Addon_K26Power_20"
+  },
+  {
+    "Name": "Rabbit's Foot",
+    "itemId": "Addon_K35_01"
+  },
+  {
+    "Name": "Footprint Cast",
+    "itemId": "Addon_K35_02"
+  },
+  {
+    "Name": "Blurry Photo",
+    "itemId": "Addon_K35_03"
+  },
+  {
+    "Name": "Slashed Backpack",
+    "itemId": "Addon_K35_04"
+  },
+  {
+    "Name": "Punctured Eyeball",
+    "itemId": "Addon_K35_05"
+  },
+  {
+    "Name": "Notebook of Theories",
+    "itemId": "Addon_K35_06"
+  },
+  {
+    "Name": "Last Known Recording",
+    "itemId": "Addon_K35_07"
+  },
+  {
+    "Name": "Sketch Attempt",
+    "itemId": "Addon_K35_08"
+  },
+  {
+    "Name": "Victim’s Map",
+    "itemId": "Addon_K35_09"
+  },
+  {
+    "Name": "Vanishing Box",
+    "itemId": "Addon_K35_10"
+  },
+  {
+    "Name": "Front-Page Article",
+    "itemId": "Addon_K35_11"
+  },
+  {
+    "Name": "Hypnotist’s Watch",
+    "itemId": "Addon_K35_12"
+  },
+  {
+    "Name": "B-Movie Poster",
+    "itemId": "Addon_K35_13"
+  },
+  {
+    "Name": "Device of Undisclosed Origin",
+    "itemId": "Addon_K35_14"
+  },
+  {
+    "Name": "Homemade Mask",
+    "itemId": "Addon_K35_15"
+  },
+  {
+    "Name": "Obscure Game Cartridge",
+    "itemId": "Addon_K35_16"
+  },
+  {
+    "Name": "Discarded Milk Carton",
+    "itemId": "Addon_K35_17"
+  },
+  {
+    "Name": "Serum Vial",
+    "itemId": "Addon_K35_18"
+  },
+  {
+    "Name": "Captured by the Dark",
+    "itemId": "Addon_K35_19"
+  },
+  {
+    "Name": "Iridescent OSS Report",
+    "itemId": "Addon_K35_20"
+  },
+  {
+    "Name": "Walleye's Matchbook",
+    "itemId": "Addon_Ghost_WalleyesMatchbook"
+  },
+  {
+    "Name": "Driver's License",
+    "itemId": "Addon_Ghost_DriversLicense"
+  },
+  {
+    "Name": "Olsen's Address Book",
+    "itemId": "Addon_Ghost_OlsensAddressBook"
+  },
+  {
+    "Name": "Cheap Cologne",
+    "itemId": "Addon_Ghost_CheapCologne"
+  },
+  {
+    "Name": "Headline Cutouts",
+    "itemId": "Addon_Ghost_HeadlinesCutouts"
+  },
+  {
+    "Name": "Telephoto Lens",
+    "itemId": "Addon_Ghost_TelephotoLens"
+  },
+  {
+    "Name": "Knife Belt Clip",
+    "itemId": "Addon_Ghost_KnifeBeltClip"
+  },
+  {
+    "Name": "Marked Map",
+    "itemId": "Addon_Ghost_MarkedMap"
+  },
+  {
+    "Name": "Lasting Perfume",
+    "itemId": "Addon_Ghost_LastingPerfume"
+  },
+  {
+    "Name": "Cinch Straps ",
+    "itemId": "Addon_Ghost_ReusableCinchStraps"
+  },
+  {
+    "Name": "Victim’s Detailed Routine",
+    "itemId": "Addon_Ghost_VictimsDetailedRoutine"
+  },
+  {
+    "Name": "Chewed Pen",
+    "itemId": "Addon_Ghost_ChewedPen"
+  },
+  {
+    "Name": "Olsen’s Journal",
+    "itemId": "Addon_Ghost_OlsensJournal"
+  },
+  {
+    "Name": "Night Vision Monocular",
+    "itemId": "Addon_Ghost_NightVisionMonocular"
+  },
+  {
+    "Name": "Olsen’s Wallet",
+    "itemId": "Addon_Ghost_OlsensWallet"
+  },
+  {
+    "Name": "Drop-Leg Knife Sheath",
+    "itemId": "Addon_Ghost_DropLegKnifeSheath"
+  },
+  {
+    "Name": "Outdoor Security Camera",
+    "itemId": "Addon_Ghost_OutdoorSecurityCamera"
+  },
+  {
+    "Name": "Leather Knife Sheath",
+    "itemId": "Addon_Ghost_LeatherKnifeSheath"
+  },
+  {
+    "Name": "“Philly”",
+    "itemId": "Addon_Ghost_Philly"
+  },
+  {
+    "Name": "“Ghost Face Caught on Tape”",
+    "itemId": "Addon_Ghost_TheGhostFaceCaughtOnTape"
+  },
+  {
+    "Name": "Damaged Syringe",
+    "itemId": "Addon_K24Power_1"
+  },
+  {
+    "Name": "Brian’s Intestine",
+    "itemId": "Addon_K24Power_2"
+  },
+  {
+    "Name": "Visitor Wristband",
+    "itemId": "Addon_K24Power_3"
+  },
+  {
+    "Name": "S.T.A.R.S. Field Combat Manual",
+    "itemId": "Addon_K24Power_4"
+  },
+  {
+    "Name": "Marvin’s Blood",
+    "itemId": "Addon_K24Power_5"
+  },
+  {
+    "Name": "Adrenaline Injector",
+    "itemId": "Addon_K24Power_6"
+  },
+  {
+    "Name": "Mikhail’s Eye",
+    "itemId": "Addon_K24Power_7"
+  },
+  {
+    "Name": "Zombie Heart",
+    "itemId": "Addon_K24Power_8"
+  },
+  {
+    "Name": "Admin Wristband",
+    "itemId": "Addon_K24Power_9"
+  },
+  {
+    "Name": "Tyrant Gore",
+    "itemId": "Addon_K24Power_10"
+  },
+  {
+    "Name": "Serotonin Injector",
+    "itemId": "Addon_K24Power_11"
+  },
+  {
+    "Name": "T-Virus Sample",
+    "itemId": "Addon_K24Power_12"
+  },
+  {
+    "Name": "Plant 43 Vines ",
+    "itemId": "Addon_K24Power_13"
+  },
+  {
+    "Name": "Licker Tongue",
+    "itemId": "Addon_K24Power_14"
+  },
+  {
+    "Name": "NE-α Parasite",
+    "itemId": "Addon_K24Power_15"
+  },
+  {
+    "Name": "Jill’s Sandwich",
+    "itemId": "Addon_K24Power_16"
+  },
+  {
+    "Name": "Broken Recovery Coin",
+    "itemId": "Addon_K24Power_17"
+  },
+  {
+    "Name": "Depleted Ink Ribbon",
+    "itemId": "Addon_K24Power_18"
+  },
+  {
+    "Name": "Shattered S.T.A.R.S. Badge",
+    "itemId": "Addon_K24Power_19"
+  },
+  {
+    "Name": "Iridescent Umbrella Badge",
+    "itemId": "Addon_K24Power_20"
+  },
+  {
+    "Name": "Lead Ring ",
+    "itemId": "ADDON_TormentMode_LeadRing"
+  },
+  {
+    "Name": "Dead Butterfly ",
+    "itemId": "ADDON_TormentMode_DeadButterfly"
+  },
+  {
+    "Name": "Black Strap ",
+    "itemId": "ADDON_TormentMode_BlackStrap"
+  },
+  {
+    "Name": "Copper Ring ",
+    "itemId": "ADDON_TormentMode_CopperRing"
+  },
+  {
+    "Name": "Cinderella Music Box ",
+    "itemId": "ADDON_TormentMode_CinderellaMusicBox"
+  },
+  {
+    "Name": "Forgotten Videotape ",
+    "itemId": "ADDON_TormentMode_ForgottenVideotape"
+  },
+  {
+    "Name": "Wax Doll ",
+    "itemId": "ADDON_TormentMode_WaxDoll"
+  },
+  {
+    "Name": "Spearhead ",
+    "itemId": "ADDON_TormentMode_Spearhead"
+  },
+  {
+    "Name": "Leopard-Print Fabric  ",
+    "itemId": "ADDON_TormentMode_LeopardPrintFabric"
+  },
+  {
+    "Name": "Mannequin Foot ",
+    "itemId": "ADDON_TormentMode_MannequinFoot"
+  },
+  {
+    "Name": "Valtiel Sect Photograph ",
+    "itemId": "ADDON_TormentMode_ValtielSectPhotograph"
+  },
+  {
+    "Name": "Burning Man Painting ",
+    "itemId": "ADDON_TormentMode_BurningManPainting"
+  },
+  {
+    "Name": "Tablet of the Oppressor ",
+    "itemId": "ADDON_TormentMode_TabletoftheOppressor"
+  },
+  {
+    "Name": "Misty Day, Remains of Judgment ",
+    "itemId": "ADDON_TormentMode_MistyDayRemainsofJudgment"
+  },
+  {
+    "Name": "Scarlet Egg ",
+    "itemId": "ADDON_TormentMode_ScarletEgg"
+  },
+  {
+    "Name": "Rust-colored Egg ",
+    "itemId": "ADDON_TormentMode_RustcoloredEgg"
+  },
+  {
+    "Name": "Lost Memories Book ",
+    "itemId": "ADDON_TormentMode_LostMemoriesBook"
+  },
+  {
+    "Name": "Crimson Ceremony Book",
+    "itemId": "ADDON_TormentMode_CrimsonCeremoneyBook"
+  },
+  {
+    "Name": "Obsidian Goblet ",
+    "itemId": "ADDON_TormentMode_ObsidianGoblet"
+  },
+  {
+    "Name": "Iridescent Seal of Metatron ",
+    "itemId": "ADDON_TormentMode_IridescentSealofMetatron"
+  },
+  {
+    "Name": "Rotting Rope",
+    "itemId": "Addon_Kanobo_RottingRope"
+  },
+  {
+    "Name": "Blackened Toenail",
+    "itemId": "Addon_Kanobo_BlackenedToenail"
+  },
+  {
+    "Name": "Cracked Sakazuki",
+    "itemId": "Addon_Kanobo_CrackedSakazuki"
+  },
+  {
+    "Name": "Paper Lantern",
+    "itemId": "Addon_Kanobo_PaperLantern"
+  },
+  {
+    "Name": "Child's Wooden Sword",
+    "itemId": "Addon_Kanobo_ChildsWoodenSword"
+  },
+  {
+    "Name": "Polished Maedate",
+    "itemId": "Addon_Kanobo_PolishedMaedate"
+  },
+  {
+    "Name": "Chipped Saihai",
+    "itemId": "Addon_Kanobo_ChippedSaihai"
+  },
+  {
+    "Name": "Ink Lion",
+    "itemId": "Addon_Kanobo_InkLion"
+  },
+  {
+    "Name": "Bloody Sash",
+    "itemId": "Addon_Kanobo_BloodySash"
+  },
+  {
+    "Name": "Kanai-anzen Talisman",
+    "itemId": "Addon_Kanobo_KanaianzenTalisman"
+  },
+  {
+    "Name": "Wooden Oni Mask",
+    "itemId": "Addon_Kanobo_WoodenOniMask"
+  },
+  {
+    "Name": "Yamaoka Sashimono",
+    "itemId": "Addon_Kanobo_YamaokaSashimono"
+  },
+  {
+    "Name": "Scalped Topknot",
+    "itemId": "Addon_Kanobo_ScalpedTopknot"
+  },
+  {
+    "Name": "Shattered Wakizashi",
+    "itemId": "Addon_Kanobo_ShatteredWakizashi"
+  },
+  {
+    "Name": "Lion Fang",
+    "itemId": "Addon_Kanobo_LionFang"
+  },
+  {
+    "Name": "Splintered Hull",
+    "itemId": "Addon_Kanobo_SplinteredHull"
+  },
+  {
+    "Name": "Tear Soaked Tenugui",
+    "itemId": "Addon_Kanobo_TearSoakedTenugui"
+  },
+  {
+    "Name": "Akito's Crutch",
+    "itemId": "Addon_Kanobo_AkitosCrutch"
+  },
+  {
+    "Name": "Iridescent Family Crest",
+    "itemId": "Addon_Kanobo_YamaokaFamilyCrest"
+  },
+  {
+    "Name": "Renjiro’s Bloody Glove",
+    "itemId": "Addon_Kanobo_RenjirosBloodyGlove"
+  },
+  {
+    "Name": "Lambert’s Star Map",
+    "itemId": "Addon_K33_01"
+  },
+  {
+    "Name": "Cereal Rations",
+    "itemId": "Addon_K33_02"
+  },
+  {
+    "Name": "Ripley's Watch",
+    "itemId": "Addon_K33_03"
+  },
+  {
+    "Name": "Ovomorph",
+    "itemId": "Addon_K33_04"
+  },
+  {
+    "Name": "Drinking Bird",
+    "itemId": "Addon_K33_05"
+  },
+  {
+    "Name": "Crew Headset",
+    "itemId": "Addon_K33_06"
+  },
+  {
+    "Name": "Emergency Helmet",
+    "itemId": "Addon_K33_07"
+  },
+  {
+    "Name": "Ash’s Innards",
+    "itemId": "Addon_K33_08"
+  },
+  {
+    "Name": "Light Wand",
+    "itemId": "Addon_K33_09"
+  },
+  {
+    "Name": "Kane’s Helmet",
+    "itemId": "Addon_K33_10"
+  },
+  {
+    "Name": "Multipurpose Hatchet",
+    "itemId": "Addon_K33_11"
+  },
+  {
+    "Name": "Parker’s Headband",
+    "itemId": "Addon_K33_12"
+  },
+  {
+    "Name": "Molted Skin",
+    "itemId": "Addon_K33_13"
+  },
+  {
+    "Name": "Brett’s Cap",
+    "itemId": "Addon_K33_14"
+  },
+  {
+    "Name": "Semiotic Keyboard",
+    "itemId": "Addon_K33_15"
+  },
+  {
+    "Name": "Harpoon Gun",
+    "itemId": "Addon_K33_16"
+  },
+  {
+    "Name": "Cat Carrier",
+    "itemId": "Addon_K33_17"
+  },
+  {
+    "Name": "Self-Destruct Bolt",
+    "itemId": "Addon_K33_18"
+  },
+  {
+    "Name": "Improvised Cattle Prod",
+    "itemId": "Addon_K33_19"
+  },
+  {
+    "Name": "Acidic Blood",
+    "itemId": "Addon_K33_20"
+  },
+  {
+    "Name": "Strobing Light",
+    "itemId": "Addon_K34_01"
+  },
+  {
+    "Name": "Doll Eyes",
+    "itemId": "Addon_K34_02"
+  },
+  {
+    "Name": "Tiny Scalpel ",
+    "itemId": "Addon_K34_03"
+  },
+  {
+    "Name": "Good Guy Box",
+    "itemId": "Addon_K34_04"
+  },
+  {
+    "Name": "Power Drill ",
+    "itemId": "Addon_K34_05"
+  },
+  {
+    "Name": "Electric Carving Knife ",
+    "itemId": "Addon_K34_06"
+  },
+  {
+    "Name": "Jump Rope ",
+    "itemId": "Addon_K34_07"
+  },
+  {
+    "Name": "Hair Spray & Candle ",
+    "itemId": "Addon_K34_08"
+  },
+  {
+    "Name": "Automatic Screwdriver ",
+    "itemId": "Addon_K34_09"
+  },
+  {
+    "Name": "Portable TV ",
+    "itemId": "Addon_K34_10"
+  },
+  {
+    "Name": "Silk Pillow",
+    "itemId": "Addon_K34_11"
+  },
+  {
+    "Name": "Iridescent Amulet",
+    "itemId": "Addon_K34_12"
+  },
+  {
+    "Name": "Plastic Bag",
+    "itemId": "Addon_K34_13"
+  },
+  {
+    "Name": "Pile of Nails ",
+    "itemId": "Addon_K34_14"
+  },
+  {
+    "Name": "Yardstick ",
+    "itemId": "Addon_K34_15"
+  },
+  {
+    "Name": "Running Shoes",
+    "itemId": "Addon_K34_16"
+  },
+  {
+    "Name": "Rat Poison ",
+    "itemId": "Addon_K34_17"
+  },
+  {
+    "Name": "Straight Razor ",
+    "itemId": "Addon_K34_18"
+  },
+  {
+    "Name": "Hard Hat",
+    "itemId": "Addon_K34_19"
+  },
+  {
+    "Name": "Mirror Shards ",
+    "itemId": "Addon_K34_20"
+  },
+  {
+    "Name": "Plaid Flannel",
+    "itemId": "Addon_Blinker_001"
+  },
+  {
+    "Name": "White Nit Comb",
+    "itemId": "Addon_Blinker_002"
+  },
+  {
+    "Name": "Pocket Watch",
+    "itemId": "Addon_Blinker_003"
+  },
+  {
+    "Name": "Anxious Gasp",
+    "itemId": "Addon_Blinker_004"
+  },
+  {
+    "Name": "Torn Bookmark",
+    "itemId": "Addon_Blinker_005"
+  },
+  {
+    "Name": "Dark Cincture",
+    "itemId": "Addon_Blinker_006"
+  },
+  {
+    "Name": "Fragile Wheeze",
+    "itemId": "Addon_Blinker_007"
+  },
+  {
+    "Name": "Campbell's Last Breath",
+    "itemId": "Addon_Blinker_008"
+  },
+  {
+    "Name": "Metal Spoon",
+    "itemId": "Addon_Blinker_009"
+  },
+  {
+    "Name": "Bad Man Keepsake",
+    "itemId": "Addon_Blinker_010"
+  },
+  {
+    "Name": "Wooden Horse",
+    "itemId": "Addon_Blinker_011"
+  },
+  {
+    "Name": "Catatonic Boy's Treasure",
+    "itemId": "Addon_Blinker_012"
+  },
+  {
+    "Name": "Ataxic Respiration",
+    "itemId": "ADDON_Lastbreath_AtaxicRespiration"
+  },
+  {
+    "Name": "\"Bad Man's\" Last Breath",
+    "itemId": "ADDON_Lastbreath_BadManLastBreath"
+  },
+  {
+    "Name": "Dull Bracelet",
+    "itemId": "ADDON_Lastbreath_DullBracelet"
+  },
+  {
+    "Name": "Heavy Panting",
+    "itemId": "ADDON_Lastbreath_HeavyPanting"
+  },
+  {
+    "Name": "Jenner's Last Breath",
+    "itemId": "ADDON_Lastbreath_JennerLastBreath"
+  },
+  {
+    "Name": "Kavanagh's Last Breath",
+    "itemId": "ADDON_Lastbreath_KavanaghLastBreath"
+  },
+  {
+    "Name": "Matchbox",
+    "itemId": "ADDON_Lastbreath_Matchbox"
+  },
+  {
+    "Name": "Spasmodic Breath",
+    "itemId": "ADDON_Lastbreath_SpasmodicBreath"
+  },
+  {
+    "Name": "\"All Seeing\" - Spirit",
+    "itemId": "ADDON_Bell_AllseeingSpirit"
+  },
+  {
+    "Name": "\"The Serpent\" - Soot",
+    "itemId": "ADDON_Bell_AllseeingWhite"
+  },
+  {
+    "Name": "\"Shadow Dance\" - White",
+    "itemId": "ADDON_Bell_BlindBlood"
+  },
+  {
+    "Name": "\"Shadow Dance\" - Blood",
+    "itemId": "ADDON_Bell_BlindSpirit"
+  },
+  {
+    "Name": "\"Blind Warrior\" - White",
+    "itemId": "ADDON_Bell_BlindWhite"
+  },
+  {
+    "Name": "Coxcombed Clapper",
+    "itemId": "ADDON_Bell_CoxcombedClapper"
+  },
+  {
+    "Name": "\"Swift Hunt\" - White",
+    "itemId": "ADDON_Bell_SwiftMud"
+  },
+  {
+    "Name": "\"Windstorm\" - Blood",
+    "itemId": "ADDON_Bell_WindstormBlood"
+  },
+  {
+    "Name": "Bone Clapper",
+    "itemId": "Addon_Bell_001"
+  },
+  {
+    "Name": "\"The Ghost\" - Soot",
+    "itemId": "Addon_Bell_002"
+  },
+  {
+    "Name": "\"The Hound\" - Soot",
+    "itemId": "Addon_Bell_003"
+  },
+  {
+    "Name": "\"Blind Warrior\" - Mud",
+    "itemId": "Addon_Bell_004"
+  },
+  {
+    "Name": "\"Swift Hunt\" - Mud",
+    "itemId": "Addon_Bell_005"
+  },
+  {
+    "Name": "\"Swift Hunt\" - Blood",
+    "itemId": "Addon_Bell_006"
+  },
+  {
+    "Name": "\"The Beast\" - Soot",
+    "itemId": "Addon_Bell_007"
+  },
+  {
+    "Name": "\"All Seeing\" - Blood",
+    "itemId": "Addon_Bell_008"
+  },
+  {
+    "Name": "\"Windstorm\"- Mud",
+    "itemId": "Addon_Bell_009"
+  },
+  {
+    "Name": "\"Windstorm\" - White",
+    "itemId": "Addon_Bell_010"
+  },
+  {
+    "Name": "\"Blink\" - Mud",
+    "itemId": "Addon_Bell_011"
+  },
+  {
+    "Name": "\"Blink\" - White",
+    "itemId": "Addon_Bell_012"
+  },
+  {
+    "Name": "Healing Salve",
+    "itemId": "Addon_Plague_HealingSalve"
+  },
+  {
+    "Name": "Prayer Tablet Fragment",
+    "itemId": "Addon_Plague_PrayerTabletFragment"
+  },
+  {
+    "Name": "Olibanum Incense",
+    "itemId": "Addon_Plague_OlibanumIncense"
+  },
+  {
+    "Name": "Limestone Seal",
+    "itemId": "Addon_Plague_LimestoneSeal"
+  },
+  {
+    "Name": "Blessed Apple",
+    "itemId": "Addon_Plague_PrayerApple"
+  },
+  {
+    "Name": "Prophylactic Amulet",
+    "itemId": "Addon_Plague_ProphylacticAmulet"
+  },
+  {
+    "Name": "Potent Tincture",
+    "itemId": "Addon_Plague_PotentTincture"
+  },
+  {
+    "Name": "Emetic potion",
+    "itemId": "Addon_Plague_EmeticPotion"
+  },
+  {
+    "Name": "Hematite Seal",
+    "itemId": "Addon_Plague_HematiteSeal"
+  },
+  {
+    "Name": "Incensed Ointment",
+    "itemId": "Addon_Plague_IncensedOintment"
+  },
+  {
+    "Name": "Infected Emetic",
+    "itemId": "Addon_Plague_InfectedEmetic"
+  },
+  {
+    "Name": "Ashen Apple",
+    "itemId": "Addon_Plague_AshenApple"
+  },
+  {
+    "Name": "Rubbing Oil",
+    "itemId": "Addon_Plague_RubbingOil"
+  },
+  {
+    "Name": "Exorcism Amulet",
+    "itemId": "Addon_Plague_ExorcismAmulet"
+  },
+  {
+    "Name": "Vile Emetic",
+    "itemId": "Addon_Plague_VileEmetic"
+  },
+  {
+    "Name": "Devotee's Amulet",
+    "itemId": "Addon_Plague_DevoteesAmulet"
+  },
+  {
+    "Name": "Worship Tablet",
+    "itemId": "Addon_Plague_WorshipTablet"
+  },
+  {
+    "Name": "Severed Toe",
+    "itemId": "Addon_Plague_SeveredToe"
+  },
+  {
+    "Name": "Black Incense",
+    "itemId": "Addon_Plague_BlackIncense"
+  },
+  {
+    "Name": "Iridescent Seal",
+    "itemId": "Addon_Plague_IridescentSeal"
+  },
+  {
+    "Name": "\"Order\" - Class I",
+    "itemId": "Addon_Spark_OrderClassI"
+  },
+  {
+    "Name": "\"Calm\" - Class I",
+    "itemId": "Addon_Spark_CalmClassI"
+  },
+  {
+    "Name": "Maple Knight",
+    "itemId": "Addon_Spark_NanmuCatapult"
+  },
+  {
+    "Name": "Moldy Electrode",
+    "itemId": "Addon_Spark_MoldyElectrode"
+  },
+  {
+    "Name": "\"Order\" - Class II",
+    "itemId": "Addon_Spark_OrderClassII"
+  },
+  {
+    "Name": "\"Discipline\" - Class II",
+    "itemId": "Addon_Spark_DisciplineClassII"
+  },
+  {
+    "Name": "\"Calm\" - Class II",
+    "itemId": "Addon_Spark_CalmClassII"
+  },
+  {
+    "Name": "\"Restraint\" - Class II",
+    "itemId": "Addon_Spark_RestraintClassII"
+  },
+  {
+    "Name": "Polished Electrode",
+    "itemId": "Addon_Spark_PolishedElectrode"
+  },
+  {
+    "Name": "Interview Tape",
+    "itemId": "Addon_Spark_TigerFangCharm"
+  },
+  {
+    "Name": "\"Discipline\" - Class III",
+    "itemId": "Addon_Spark_DisciplineClassIII"
+  },
+  {
+    "Name": "\"Restraint\" - Class III",
+    "itemId": "Addon_Spark_RestraintClassIII"
+  },
+  {
+    "Name": "High Stimulus Electrode",
+    "itemId": "Addon_Spark_HighStimulusElectrode"
+  },
+  {
+    "Name": "Scrapped Tape",
+    "itemId": "Addon_Spark_Obedience_MuYisNotes"
+  },
+  {
+    "Name": "\"Order\" - Carter's Notes",
+    "itemId": "Addon_Spark_OrderMuYisNotes"
+  },
+  {
+    "Name": "\"Discipline\" - Carter's Notes",
+    "itemId": "Addon_Spark_DisciplineMuYisNotes"
+  },
+  {
+    "Name": "\"Calm\" - Carter's Notes",
+    "itemId": "Addon_Spark_CalmMuYisNotes"
+  },
+  {
+    "Name": "\"Restraint\" - Carter's Notes",
+    "itemId": "Addon_Spark_RestraintMuYisNotes"
+  },
+  {
+    "Name": "Iridescent Queen",
+    "itemId": "Addon_Spark_JadeCharm"
+  },
+  {
+    "Name": "Iridescent King",
+    "itemId": "Addon_Spark_IridescentGeneral"
+  },
+  {
+    "Name": "Jewel Beetle",
+    "itemId": "Addon_K29_01"
+  },
+  {
+    "Name": "Green Herb",
+    "itemId": "Addon_K29_02"
+  },
+  {
+    "Name": "Unicorn Medallion",
+    "itemId": "Addon_K29_03"
+  },
+  {
+    "Name": "R.P.D. Shoulder Walkie",
+    "itemId": "Addon_K29_04"
+  },
+  {
+    "Name": "Loose Crank",
+    "itemId": "Addon_K29_05"
+  },
+  {
+    "Name": "Leather Gloves",
+    "itemId": "Addon_K29_06"
+  },
+  {
+    "Name": "Lion Medallion",
+    "itemId": "Addon_K29_07"
+  },
+  {
+    "Name": "Chalice (Gold)",
+    "itemId": "Addon_K29_08"
+  },
+  {
+    "Name": "Bullhorn",
+    "itemId": "Addon_K29_09"
+  },
+  {
+    "Name": "Portable Safe",
+    "itemId": "Addon_K29_10"
+  },
+  {
+    "Name": "Red Herb",
+    "itemId": "Addon_K29_11"
+  },
+  {
+    "Name": "Maiden Medallion",
+    "itemId": "Addon_K29_12"
+  },
+  {
+    "Name": "Video Conference Device",
+    "itemId": "Addon_K29_13"
+  },
+  {
+    "Name": "Egg (Gold)",
+    "itemId": "Addon_K29_14"
+  },
+  {
+    "Name": "Dark Sunglasses",
+    "itemId": "Addon_K29_15"
+  },
+  {
+    "Name": "Helicopter Stick",
+    "itemId": "Addon_K29_16"
+  },
+  {
+    "Name": "Uroboros Tendril",
+    "itemId": "Addon_K29_17"
+  },
+  {
+    "Name": "Uroboros Virus",
+    "itemId": "Addon_K29_18"
+  },
+  {
+    "Name": "Lab Photo",
+    "itemId": "Addon_K29_19"
+  },
+  {
+    "Name": "Iridescent Uroboros Vial",
+    "itemId": "Addon_K29_20"
+  },
+  {
+    "Name": "Friendship Bracelet",
+    "itemId": "ADDON_Frenzy_FriendshipBracelet"
+  },
+  {
+    "Name": "Mischief List",
+    "itemId": "ADDON_Frenzy_MischiefList"
+  },
+  {
+    "Name": "Smiley Face Pin",
+    "itemId": "ADDON_Frenzy_SmileyFacePin"
+  },
+  {
+    "Name": "Scratched Ruler",
+    "itemId": "ADDON_Frenzy_ScratchedRuler"
+  },
+  {
+    "Name": "Mural Sketch",
+    "itemId": "ADDON_Frenzy_MuralSketch"
+  },
+  {
+    "Name": "Never-Sleep Pills",
+    "itemId": "ADDON_Frenzy_NeverSleepPills"
+  },
+  {
+    "Name": "Etched Ruler",
+    "itemId": "ADDON_Frenzy_EtchedRuler"
+  },
+  {
+    "Name": "Julie's Mix Tape",
+    "itemId": "ADDON_Frenzy_JuliesMixTape"
+  },
+  {
+    "Name": "Defaced Smiley Pin",
+    "itemId": "ADDON_Frenzy_DefacedSmileyPin"
+  },
+  {
+    "Name": "Susie's Mix Tape",
+    "itemId": "ADDON_Frenzy_SusiesMixTape"
+  },
+  {
+    "Name": "Stolen Sketch Book",
+    "itemId": "ADDON_Frenzy_StolenSketchBook"
+  },
+  {
+    "Name": "The Legion Pin",
+    "itemId": "ADDON_Frenzy_TheLegionPin"
+  },
+  {
+    "Name": "Stylish Sunglasses",
+    "itemId": "ADDON_Frenzy_NastyBlade"
+  },
+  {
+    "Name": "Joey's Mix Tape",
+    "itemId": "ADDON_Frenzy_JoeysMixTape"
+  },
+  {
+    "Name": "Filthy Blade",
+    "itemId": "ADDON_Frenzy_FilthyBlade"
+  },
+  {
+    "Name": "Frank's Mix Tape",
+    "itemId": "ADDON_Frenzy_FranksMixTape"
+  },
+  {
+    "Name": "BFFs",
+    "itemId": "ADDON_Frenzy_ColdDirt"
+  },
+  {
+    "Name": "Stab Wounds Study",
+    "itemId": "ADDON_Frenzy_StabWoundsStudy"
+  },
+  {
+    "Name": "Fuming Mix Tape",
+    "itemId": "ADDON_Frenzy_FumingMixTape"
+  },
+  {
+    "Name": "Iridescent Button",
+    "itemId": "ADDON_Frenzy_IridescentButton"
+  },
+  {
+    "Name": "Blond Hair",
+    "itemId": "Addon_Stalker_BlondHair"
+  },
+  {
+    "Name": "Boyfriend's Memo",
+    "itemId": "Addon_Stalker_BoyfriendsMemo"
+  },
+  {
+    "Name": "Dead Rabbit",
+    "itemId": "Addon_Stalker_DeadRabbit"
+  },
+  {
+    "Name": "Fragrant Tuft of Hair",
+    "itemId": "Addon_Stalker_FragrantTuftOfHair"
+  },
+  {
+    "Name": "Glass Fragment",
+    "itemId": "Addon_Stalker_GlassFragment"
+  },
+  {
+    "Name": "Hair Bow",
+    "itemId": "Addon_Stalker_HairBow"
+  },
+  {
+    "Name": "Hair Brush",
+    "itemId": "Addon_Stalker_HairBrush"
+  },
+  {
+    "Name": "J.Myers Memorial",
+    "itemId": "Addon_Stalker_JMyersMemorial"
+  },
+  {
+    "Name": "Jewelry",
+    "itemId": "Addon_Stalker_Jewelry"
+  },
+  {
+    "Name": "Jewelry Box",
+    "itemId": "Addon_Stalker_JewelryBox"
+  },
+  {
+    "Name": "Judith's Journal",
+    "itemId": "Addon_Stalker_JudithsJournal"
+  },
+  {
+    "Name": "Judith's Tombstone",
+    "itemId": "Addon_Stalker_JudithsTombstone"
+  },
+  {
+    "Name": "Lock of Hair",
+    "itemId": "Addon_Stalker_LockOfHair"
+  },
+  {
+    "Name": "Memorial Flower",
+    "itemId": "Addon_Stalker_MemorialFlower"
+  },
+  {
+    "Name": "Mirror Shard",
+    "itemId": "Addon_Stalker_MirrorShard"
+  },
+  {
+    "Name": "Reflective Fragment",
+    "itemId": "Addon_Stalker_ReflectiveFragment"
+  },
+  {
+    "Name": "Scratched Mirror",
+    "itemId": "Addon_Stalker_ScratchedMirror"
+  },
+  {
+    "Name": "Tacky Earrings",
+    "itemId": "Addon_Stalker_TackyEarrings"
+  },
+  {
+    "Name": "Tombstone Piece",
+    "itemId": "Addon_Stalker_TombstonePiece"
+  },
+  {
+    "Name": "Vanity Mirror",
+    "itemId": "Addon_Stalker_VanityMirror"
+  },
+  {
+    "Name": "Videotape Copy",
+    "itemId": "Addon_TheOnryo_01"
+  },
+  {
+    "Name": "Old Newspaper",
+    "itemId": "Addon_TheOnryo_02"
+  },
+  {
+    "Name": "Cabin Sign",
+    "itemId": "Addon_TheOnryo_03"
+  },
+  {
+    "Name": "Mother's Mirror",
+    "itemId": "Addon_TheOnryo_04"
+  },
+  {
+    "Name": "Reiko's Watch",
+    "itemId": "Addon_TheOnryo_05"
+  },
+  {
+    "Name": "Sea-Soaked Cloth",
+    "itemId": "Addon_TheOnryo_06"
+  },
+  {
+    "Name": "Clump of Hair",
+    "itemId": "Addon_TheOnryo_07"
+  },
+  {
+    "Name": "Well Stone",
+    "itemId": "Addon_TheOnryo_08"
+  },
+  {
+    "Name": "Yoichi's Fishing Net",
+    "itemId": "Addon_TheOnryo_09"
+  },
+  {
+    "Name": "Rickety Pinwheel",
+    "itemId": "Addon_TheOnryo_10"
+  },
+  {
+    "Name": "Well Water",
+    "itemId": "Addon_TheOnryo_11"
+  },
+  {
+    "Name": "Ring Drawing",
+    "itemId": "Addon_TheOnryo_12"
+  },
+  {
+    "Name": "Bloody Fingernails",
+    "itemId": "Addon_TheOnryo_13"
+  },
+  {
+    "Name": "Mother's Comb",
+    "itemId": "Addon_TheOnryo_14"
+  },
+  {
+    "Name": "VCR",
+    "itemId": "Addon_TheOnryo_15"
+  },
+  {
+    "Name": "Distorted Photo",
+    "itemId": "Addon_TheOnryo_16"
+  },
+  {
+    "Name": "Telephone",
+    "itemId": "Addon_TheOnryo_17"
+  },
+  {
+    "Name": "Tape Editing Deck",
+    "itemId": "Addon_TheOnryo_18"
+  },
+  {
+    "Name": "Remote Control",
+    "itemId": "Addon_TheOnryo_19"
+  },
+  {
+    "Name": "Iridescent Videotape",
+    "itemId": "Addon_TheOnryo_20"
+  },
+  {
+    "Name": "Rotten Pumpkin",
+    "itemId": "Addon_Demogorgon_RottenPumpkin"
+  },
+  {
+    "Name": "Black Heart",
+    "itemId": "Addon_Demogorgon_BlackHeart"
+  },
+  {
+    "Name": "Rat Liver",
+    "itemId": "Addon_Demogorgon_RatLiver"
+  },
+  {
+    "Name": "Rat Tail",
+    "itemId": "Addon_Demogorgon_RatTail"
+  },
+  {
+    "Name": "Sticky Lining",
+    "itemId": "Addon_Demogorgon_StickyLining"
+  },
+  {
+    "Name": "Viscous Webbing",
+    "itemId": "Addon_Demogorgon_ViscousWebbing"
+  },
+  {
+    "Name": "Rotten Green Tripe",
+    "itemId": "Addon_Demogorgon_RottenGreenTripe"
+  },
+  {
+    "Name": "Mew's Guts",
+    "itemId": "Addon_Demogorgon_MewsGuts"
+  },
+  {
+    "Name": "Barb's Glasses",
+    "itemId": "Addon_Demogorgon_BarbsGlasses"
+  },
+  {
+    "Name": "Eleven's Soda",
+    "itemId": "Addon_Demogorgon_ElevensSoda"
+  },
+  {
+    "Name": "Thorny Vines",
+    "itemId": "Addon_Demogorgon_ThornyVines"
+  },
+  {
+    "Name": "Brass Case Lighter",
+    "itemId": "Addon_Demogorgon_BrassCaseLighter"
+  },
+  {
+    "Name": "Violet Waxcap",
+    "itemId": "Addon_Demogorgon_VioletWaxCap"
+  },
+  {
+    "Name": "Deer Lung",
+    "itemId": "Addon_Demogorgon_DeerLung"
+  },
+  {
+    "Name": "Lifeguard Whistle",
+    "itemId": "Addon_Demogorgon_LifeguardWhistle"
+  },
+  {
+    "Name": "Vermillion Webcap",
+    "itemId": "Addon_Demogorgon_VermillionWebcap"
+  },
+  {
+    "Name": "Upside Down Resin",
+    "itemId": "Addon_Demogorgon_UpsideDownResin"
+  },
+  {
+    "Name": "Unknown Egg",
+    "itemId": "Addon_Demogorgon_UnknownEgg"
+  },
+  {
+    "Name": "Leprose Lichen",
+    "itemId": "Addon_Demogorgon_LerproseLichen"
+  },
+  {
+    "Name": "Red Moss",
+    "itemId": "Addon_Demogorgon_RedMoss"
+  },
+  {
+    "Name": "Tattered Headband",
+    "itemId": "Addon_K36_01"
+  },
+  {
+    "Name": "Raven's Feather",
+    "itemId": "Addon_K36_02"
+  },
+  {
+    "Name": "Trickster's Glove",
+    "itemId": "Addon_K36_03"
+  },
+  {
+    "Name": "Crystal Ball",
+    "itemId": "Addon_K36_04"
+  },
+  {
+    "Name": "Lantern of Revealing",
+    "itemId": "Addon_K36_05"
+  },
+  {
+    "Name": "Potion of Speed",
+    "itemId": "Addon_K36_06"
+  },
+  {
+    "Name": "Ring of Telekinesis",
+    "itemId": "Addon_K36_07"
+  },
+  {
+    "Name": "Glass Eye",
+    "itemId": "Addon_K36_08"
+  },
+  {
+    "Name": "Ring of Spell Storing",
+    "itemId": "Addon_K36_09"
+  },
+  {
+    "Name": "Ornate Horn",
+    "itemId": "Addon_K36_10"
+  },
+  {
+    "Name": "Cloak of Elvenkind",
+    "itemId": "Addon_K36_11"
+  },
+  {
+    "Name": "Boots of Speed",
+    "itemId": "Addon_K36_12"
+  },
+  {
+    "Name": "Staff of Withering",
+    "itemId": "Addon_K36_13"
+  },
+  {
+    "Name": "Pearl of Power",
+    "itemId": "Addon_K36_14"
+  },
+  {
+    "Name": "Robe of Eyes",
+    "itemId": "Addon_K36_15"
+  },
+  {
+    "Name": "Dragontooth Dagger",
+    "itemId": "Addon_K36_16"
+  },
+  {
+    "Name": "Cloak of Invisibility",
+    "itemId": "Addon_K36_17"
+  },
+  {
+    "Name": "Bag of Holding",
+    "itemId": "Addon_K36_18"
+  },
+  {
+    "Name": "Vorpal Sword",
+    "itemId": "Addon_K36_19"
+  },
+  {
+    "Name": "Iridescent Book of Vile Darkness",
+    "itemId": "Addon_K36_20"
+  },
+  {
+    "Name": "Workshop Grease",
+    "itemId": "Addon_ReverseBearTrap_WorkshopGrease"
+  },
+  {
+    "Name": "Razor Wires",
+    "itemId": "Addon_ReverseBearTrap_RazorWires"
+  },
+  {
+    "Name": "John's Medical File",
+    "itemId": "Addon_ReverseBearTrap_JohnMedicalFile"
+  },
+  {
+    "Name": "Shattered Syringe",
+    "itemId": "Addon_ReverseBearTrap_ShatteredSyringe"
+  },
+  {
+    "Name": "Video Tape",
+    "itemId": "Addon_ReverseBearTrap_VideoTape"
+  },
+  {
+    "Name": "Combat Straps",
+    "itemId": "Addon_ReverseBearTrap_CombatStraps"
+  },
+  {
+    "Name": "Utility Blades",
+    "itemId": "Addon_ReverseBearTrap_UtilityBlades"
+  },
+  {
+    "Name": "Face Mask",
+    "itemId": "Addon_ReverseBearTrap_FaceMask"
+  },
+  {
+    "Name": "Rusty Attachments",
+    "itemId": "Addon_ReverseBearTrap_RustyAttachments"
+  },
+  {
+    "Name": "Slow-Release Toxin",
+    "itemId": "Addon_ReverseBearTrap_SlowReleasingToxin"
+  },
+  {
+    "Name": "Bag of Gears",
+    "itemId": "Addon_ReverseBearTrap_BagofGears"
+  },
+  {
+    "Name": "Crate of Gears",
+    "itemId": "Addon_ReverseBearTrap_CrateofGears"
+  },
+  {
+    "Name": "Jigsaw's Sketch",
+    "itemId": "Addon_ReverseBearTrap_JigsawsSketch"
+  },
+  {
+    "Name": "Jigsaw's Annotated Plan",
+    "itemId": "Addon_ReverseBearTrap_JigsawsAnnotatedPlan"
+  },
+  {
+    "Name": "Amanda's Letter",
+    "itemId": "Addon_ReverseBearTrap_AmandasLetter"
+  },
+  {
+    "Name": "Tampered Timer",
+    "itemId": "Addon_ReverseBearTrap_TamperedTimer"
+  },
+  {
+    "Name": "Last Will",
+    "itemId": "Addon_ReverseBearTrap_LastWill"
+  },
+  {
+    "Name": "Interlocking Razor",
+    "itemId": "Addon_ReverseBearTrap_InterlockingRazor"
+  },
+  {
+    "Name": "Amanda's Secret",
+    "itemId": "Addon_ReverseBearTrap_AmandasSecret"
+  },
+  {
+    "Name": "Rule Set No.2",
+    "itemId": "Addon_ReverseBearTrap_RuleSetN2"
+  },
+  {
+    "Name": "Chainsaw File",
+    "itemId": "ADDON_LFChainsaw_ChainsawFile"
+  },
+  {
+    "Name": "Spark Plug",
+    "itemId": "ADDON_LFChainsaw_SparkPlug"
+  },
+  {
+    "Name": "Vegetable Oil",
+    "itemId": "ADDON_LFChainsaw_VegetableOil"
+  },
+  {
+    "Name": "Primer Bulb",
+    "itemId": "ADDON_LFChainsaw_PrimerBulb"
+  },
+  {
+    "Name": "Long Guide Bar",
+    "itemId": "ADDON_LFChainsaw_LongGuideBar"
+  },
+  {
+    "Name": "Depth Gauge Rake",
+    "itemId": "ADDON_LFChainsaw_DepthGaugeRake"
+  },
+  {
+    "Name": "Homemade Muffler",
+    "itemId": "ADDON_LFChainsaw_HomemadeMuffler"
+  },
+  {
+    "Name": "Grisly Chain",
+    "itemId": "ADDON_LFChainsaw_GrislyChains"
+  },
+  {
+    "Name": "Speed Limiter",
+    "itemId": "ADDON_LFChainsaw_SpeedLimiter"
+  },
+  {
+    "Name": "Shop Lubricant",
+    "itemId": "ADDON_LFChainsaw_ShopLubricant"
+  },
+  {
+    "Name": "Knife Scratches",
+    "itemId": "ADDON_LFChainsaw_KnifeScratches"
+  },
+  {
+    "Name": "Chili",
+    "itemId": "ADDON_LFChainsaw_Chili"
+  },
+  {
+    "Name": "The Beast's Marks",
+    "itemId": "ADDON_LFChainsaw_BeastsMarks"
+  },
+  {
+    "Name": "Carburetor Tuning Guide",
+    "itemId": "ADDON_LFChainsaw_CarburatorGuide"
+  },
+  {
+    "Name": "Light Chassis",
+    "itemId": "ADDON_LFChainsaw_LightChassis"
+  },
+  {
+    "Name": "The Grease",
+    "itemId": "ADDON_LFChainsaw_TheGrease"
+  },
+  {
+    "Name": "Rusted Chain",
+    "itemId": "ADDON_LFChainsaw_RustedChain"
+  },
+  {
+    "Name": "Award-Winning Chili",
+    "itemId": "ADDON_LFChainsaw_AwardWinningChili"
+  },
+  {
+    "Name": "Begrimed Chains",
+    "itemId": "ADDON_LFChainsaw_BegrimedChain"
+  },
+  {
+    "Name": "Iridescent Flesh",
+    "itemId": "ADDON_LFChainsaw_IridescentFlesh"
+  },
+  {
+    "Name": "Rusty Head",
+    "itemId": "Addon_Hatchet_RustyHead"
+  },
+  {
+    "Name": "Begrimed Head",
+    "itemId": "Addon_Hatchet_BegrimedHead"
+  },
+  {
+    "Name": "Wooden Fox",
+    "itemId": "Addon_Hatchet_YewSeedBrew"
+  },
+  {
+    "Name": "Rose Root",
+    "itemId": "Addon_Hatchet_YewSeedConcoction"
+  },
+  {
+    "Name": "Coarse Stone",
+    "itemId": "Addon_Hatchet_CoarseStone"
+  },
+  {
+    "Name": "Weighted Head",
+    "itemId": "Addon_Hatchet_FineStone"
+  },
+  {
+    "Name": "Leather Loop",
+    "itemId": "Addon_Hatchet_LeatherLoop"
+  },
+  {
+    "Name": "Infantry Belt",
+    "itemId": "Addon_Hatchet_InfantryBelt"
+  },
+  {
+    "Name": "Yellowed Cloth",
+    "itemId": "Addon_Hatchet_BerusToxin"
+  },
+  {
+    "Name": "Venomous Concoction",
+    "itemId": "Addon_Hatchet_VenomousConcoction"
+  },
+  {
+    "Name": "Iridescent Head",
+    "itemId": "Addon_Hatchet_IridescentHead"
+  },
+  {
+    "Name": "Bandaged Haft",
+    "itemId": "Addon_Hatchet_BandagedHaft"
+  },
+  {
+    "Name": "Oak Haft",
+    "itemId": "Addon_Hatchet_OakHaft"
+  },
+  {
+    "Name": "Deerskin Gloves",
+    "itemId": "Addon_Hatchet_DeerskinGloves"
+  },
+  {
+    "Name": "Shiny Pin",
+    "itemId": "Addon_Hatchet_ShinyPin"
+  },
+  {
+    "Name": "Amanita Toxin",
+    "itemId": "Addon_Hatchet_AmanitaToxin"
+  },
+  {
+    "Name": "Glowing Concoction",
+    "itemId": "Addon_Hatchet_GlowingConcoction"
+  },
+  {
+    "Name": "Soldier's Puttee",
+    "itemId": "Addon_Hatchet_PungentFiale"
+  },
+  {
+    "Name": "Manna Grass Braid",
+    "itemId": "Addon_Hatchet_MannaGrassBraid"
+  },
+  {
+    "Name": "Flower Babushka",
+    "itemId": "Addon_Hatchet_FlowerBabushka"
+  },
+  {
+    "Name": "Garden Rake",
+    "itemId": "Addon_DreamInducer_GardenRake"
+  },
+  {
+    "Name": "Prototype Claws",
+    "itemId": "Addon_DreamInducer_PrototypeClaws"
+  },
+  {
+    "Name": "Paint Thinner",
+    "itemId": "Addon_DreamInducer_PaintThinner"
+  },
+  {
+    "Name": "Sheep Block",
+    "itemId": "Addon_DreamInducer_SheepBlock"
+  },
+  {
+    "Name": "Cat Block",
+    "itemId": "Addon_DreamInducer_CatBlock"
+  },
+  {
+    "Name": "Unicorn Block",
+    "itemId": "Addon_DreamInducer_UnicornBlock"
+  },
+  {
+    "Name": "\"Z\" Block",
+    "itemId": "Addon_DreamInducer_ZBlock"
+  },
+  {
+    "Name": "Wool Shirt",
+    "itemId": "Addon_DreamInducer_WoolShirt"
+  },
+  {
+    "Name": "Green Dress",
+    "itemId": "Addon_DreamInducer_GreenDress"
+  },
+  {
+    "Name": "Blue Dress",
+    "itemId": "Addon_DreamInducer_BlueDress"
+  },
+  {
+    "Name": "Kid's Drawing",
+    "itemId": "Addon_DreamInducer_KidsDrawing"
+  },
+  {
+    "Name": "Nancy's Sketch",
+    "itemId": "Addon_DreamInducer_NancysSketch"
+  },
+  {
+    "Name": "Nancy's Masterpiece",
+    "itemId": "Addon_DreamInducer_NancysMasterpiece"
+  },
+  {
+    "Name": "Class Photo",
+    "itemId": "Addon_DreamInducer_ClassPhoto"
+  },
+  {
+    "Name": "Pill Bottle",
+    "itemId": "Addon_DreamInducer_PillBottle"
+  },
+  {
+    "Name": "Red Paint Brush",
+    "itemId": "Addon_DreamInducer_RedPaintBrush"
+  },
+  {
+    "Name": "Black Box",
+    "itemId": "Addon_DreamInducer_BlackBox"
+  },
+  {
+    "Name": "Swing Chains",
+    "itemId": "Addon_DreamInducer_SwingChains"
+  },
+  {
+    "Name": "Outdoor Rope",
+    "itemId": "Addon_DreamInducer_Rope"
+  },
+  {
+    "Name": "Jump Rope",
+    "itemId": "Addon_DreamInducer_JumpRope"
+  },
+  {
+    "Name": "Bent Nail",
+    "itemId": "Addon_K25Power_01"
+  },
+  {
+    "Name": "Lively Crickets",
+    "itemId": "Addon_K25Power_02"
+  },
+  {
+    "Name": "Burning Candle",
+    "itemId": "Addon_K25Power_03"
+  },
+  {
+    "Name": "Leather Strip",
+    "itemId": "Addon_K25Power_04"
+  },
+  {
+    "Name": "Wriggling Maggots",
+    "itemId": "Addon_K25Power_05"
+  },
+  {
+    "Name": "Spoiled Meal",
+    "itemId": "Addon_K25Power_06"
+  },
+  {
+    "Name": "Skewered Rat",
+    "itemId": "Addon_K25Power_07"
+  },
+  {
+    "Name": "Flickering Television",
+    "itemId": "Addon_K25Power_08"
+  },
+  {
+    "Name": "Liquified Gore",
+    "itemId": "Addon_K25Power_09"
+  },
+  {
+    "Name": "Larry’s Blood",
+    "itemId": "Addon_K25Power_10"
+  },
+  {
+    "Name": "Torture Pillar",
+    "itemId": "Addon_K25Power_11"
+  },
+  {
+    "Name": "Frank’s Heart",
+    "itemId": "Addon_K25Power_12"
+  },
+  {
+    "Name": "Larry’s Remains",
+    "itemId": "Addon_K25Power_13"
+  },
+  {
+    "Name": "Slice of Frank",
+    "itemId": "Addon_K25Power_14"
+  },
+  {
+    "Name": "Greasy Black Lens",
+    "itemId": "Addon_K25Power_15"
+  },
+  {
+    "Name": "Original Pain",
+    "itemId": "Addon_K25Power_16"
+  },
+  {
+    "Name": "Impaling Wire\t",
+    "itemId": "Addon_K25Power_17"
+  },
+  {
+    "Name": "Chatterer’s Tooth",
+    "itemId": "Addon_K25Power_18"
+  },
+  {
+    "Name": "Engineer’s Fang",
+    "itemId": "Addon_K25Power_19"
+  },
+  {
+    "Name": "Iridescent Lament Configuration",
+    "itemId": "Addon_K25Power_20"
+  },
+  {
+    "Name": "Young Coconut",
+    "itemId": "Addon_K38_01"
+  },
+  {
+    "Name": "Sticky Pitch",
+    "itemId": "Addon_K38_02"
+  },
+  {
+    "Name": "Creature's Bone",
+    "itemId": "Addon_K38_03"
+  },
+  {
+    "Name": "Trainer's Book",
+    "itemId": "Addon_K38_04"
+  },
+  {
+    "Name": "Barley Meal",
+    "itemId": "Addon_K38_05"
+  },
+  {
+    "Name": "Belaying Pins",
+    "itemId": "Addon_K38_06"
+  },
+  {
+    "Name": "Smoked Snapper",
+    "itemId": "Addon_K38_07"
+  },
+  {
+    "Name": "Knotted Rope",
+    "itemId": "Addon_K38_08"
+  },
+  {
+    "Name": "Spyglass",
+    "itemId": "Addon_K38_09"
+  },
+  {
+    "Name": "Waterskin",
+    "itemId": "Addon_K38_10"
+  },
+  {
+    "Name": "Unfinished Map",
+    "itemId": "Addon_K38_11"
+  },
+  {
+    "Name": "Training Bell",
+    "itemId": "Addon_K38_12"
+  },
+  {
+    "Name": "Spiked Collar",
+    "itemId": "Addon_K38_13"
+  },
+  {
+    "Name": "Fatty Meat",
+    "itemId": "Addon_K38_14"
+  },
+  {
+    "Name": "Leather Harness",
+    "itemId": "Addon_K38_15"
+  },
+  {
+    "Name": "Gunpowder Tin",
+    "itemId": "Addon_K38_16"
+  },
+  {
+    "Name": "Marlinspike",
+    "itemId": "Addon_K38_17"
+  },
+  {
+    "Name": "Ship Figurehead",
+    "itemId": "Addon_K38_18"
+  },
+  {
+    "Name": "Torn Novel",
+    "itemId": "Addon_K38_19"
+  },
+  {
+    "Name": "Iridescent Wheel Handle",
+    "itemId": "Addon_K38_20"
+  },
+  {
+    "Name": "Sylph Feather",
+    "itemId": "Addon_K37_01"
+  },
+  {
+    "Name": "Ruby Circlet",
+    "itemId": "Addon_K37_02"
+  },
+  {
+    "Name": "Cerberus Talon",
+    "itemId": "Addon_K37_03"
+  },
+  {
+    "Name": "Clock Tower Gear",
+    "itemId": "Addon_K37_04"
+  },
+  {
+    "Name": "Magical Ticket",
+    "itemId": "Addon_K37_05"
+  },
+  {
+    "Name": "Moonstone Necklace",
+    "itemId": "Addon_K37_06"
+  },
+  {
+    "Name": "Blood-Filled Goblet",
+    "itemId": "Addon_K37_07"
+  },
+  {
+    "Name": "Traveler’s Hat",
+    "itemId": "Addon_K37_08"
+  },
+  {
+    "Name": "Winged Boots",
+    "itemId": "Addon_K37_09"
+  },
+  {
+    "Name": "White Wolf Medallion",
+    "itemId": "Addon_K37_10"
+  },
+  {
+    "Name": "Killer Doll",
+    "itemId": "Addon_K37_11"
+  },
+  {
+    "Name": "Sunglasses",
+    "itemId": "Addon_K37_12"
+  },
+  {
+    "Name": "Force of Echo",
+    "itemId": "Addon_K37_13"
+  },
+  {
+    "Name": "Pocket Watch",
+    "itemId": "Addon_K37_14"
+  },
+  {
+    "Name": "Medusa’s Hair",
+    "itemId": "Addon_K37_15"
+  },
+  {
+    "Name": "Warg’s Fang",
+    "itemId": "Addon_K37_16"
+  },
+  {
+    "Name": "Cube of Zoe",
+    "itemId": "Addon_K37_17"
+  },
+  {
+    "Name": "Lapis Lazuli",
+    "itemId": "Addon_K37_18"
+  },
+  {
+    "Name": "Alucard’s Shield",
+    "itemId": "Addon_K37_19"
+  },
+  {
+    "Name": "Iridescent Ring of Vlad",
+    "itemId": "Addon_K37_20"
+  }
+]
