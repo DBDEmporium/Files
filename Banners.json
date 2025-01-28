@@ -1143,61 +1143,6 @@
         "lastUpdateAt": 1728401250,
         "objectId": "GE_BNR_10",
         "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_001",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_002",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_003",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_004",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_005",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_006",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_007",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_008",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_009",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_010",
-        "quantity": 1
-      },
-      {
-        "lastUpdatedAt": 1738085559,
-        "objectId": "HO_011",
-        "quantity": 1
       }
     ]
   }
