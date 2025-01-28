@@ -1,9 +1,5 @@
 {
-  "code": 200,
-  "message": "OK",
-  "data": {
-    "playerId": "Emporier",
-    "inventory": [
+  "inventoryItems": [
       {
         "lastUpdatedAt": 1702582108,
         "objectId": "Item_Camper_AlexsToolbox",
@@ -5941,4 +5937,3 @@
       }
     ]
   }
-}
