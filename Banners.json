@@ -1,9 +1,5 @@
 {
-  "code": 200,
-  "message": "OK",
-  "data": {
-    "playerId": "Emporier",
-    "inventory": [
+  "inventoryItems": [
       {
         "lastUpdateAt": 1713895544,
         "objectId": "AP_BDG_01",
@@ -1146,4 +1142,3 @@
       }
     ]
   }
-}
