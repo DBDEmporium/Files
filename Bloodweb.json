@@ -5209,6 +5209,18 @@
       "quantity": 3
     },
     {
+      "itemId": "K40P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K40P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "K40P03",
+      "quantity": 3
+    },
+    {
       "itemId": "S42P01",
       "quantity": 3
     },
@@ -5244,7 +5256,7 @@
       "itemId": "S45P03",
       "quantity": 3
     },
-        {
+    {
       "itemId": "S46P01",
       "quantity": 3
     },
@@ -5426,6 +5438,86 @@
     },
     {
       "itemId": "Addon_K39_20",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K40_20",
       "quantity": 1
     }
   ],
