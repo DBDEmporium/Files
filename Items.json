@@ -872,6 +872,31 @@
     },
     {
       "lastUpdatedAt": 1702582108,
+      "objectId": "Potent Extract",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_FogVial_Amplifier",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_FogVial_SlowRelease",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_FogVial_LargeVial",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_FogVial_Accelerant",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
       "objectId": "Addon_PhantomTrap_SwampOrchidNecklet",
       "quantity": 50
     },
