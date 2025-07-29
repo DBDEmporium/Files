@@ -1437,6 +1437,26 @@
       "quantity": 1
     },
     {
+      "itemId": "Potent Extract",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_Amplifier",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_SlowRelease",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_LargeVial",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_Accelerant",
+      "quantity": 1
+    },
+    {
       "itemId": "Addon_Hatchet_InfantryBelt",
       "quantity": 1
     },
