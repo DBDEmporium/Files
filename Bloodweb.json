@@ -565,6 +565,18 @@
       "quantity": 1
     },
     {
+      "itemId": "Item_Survivor_VigosFogVial",
+      "quantity": 1
+    },
+    {
+      "itemId": "Item_Survivor_PrototypeFogVial",
+      "quantity": 1
+    },
+    {
+      "itemId": "Item_Survivor_MakeshiftFogVial",
+      "quantity": 1
+    },
+    {
       "itemId": "Addon_Beartrap_001",
       "quantity": 1
     },
