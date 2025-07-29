@@ -12,6 +12,21 @@
     },
     {
       "lastUpdatedAt": 1702582108,
+      "objectId": "Item_Survivor_MakeshiftFogVial",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Item_Survivor_PrototypeFogVial",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Item_Survivor_VigosFogVial",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
       "objectId": "Item_Camper_BrokenKey",
       "quantity": 50
     },
