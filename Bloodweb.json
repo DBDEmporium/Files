@@ -5577,6 +5577,14 @@
       "quantity": 1
     },
     {
+      "itemId": "Item_Camper_FadedMap",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_FogVial_DenseFogExtract",
+      "quantity": 1
+    },
+    {
       "itemId": "Addon_K40_20",
       "quantity": 1
     }
