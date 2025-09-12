@@ -1,13 +1,5 @@
 [
   {
-    "Name": "Ace in the Hole",
-    "itemId": "Ace_In_The_Hole"
-  },
-  {
-    "Name": "Adrenaline",
-    "itemId": "Adrenaline"
-  },
-  {
     "Name": "Agitation",
     "itemId": "Agitation"
   },
@@ -16,20 +8,8 @@
     "itemId": "Bitter_Murmur"
   },
   {
-    "Name": "Bond",
-    "itemId": "Bond"
-  },
-  {
-    "Name": "Botany Knowledge",
-    "itemId": "Botany_Knowledge"
-  },
-  {
     "Name": "Brutal Strength",
     "itemId": "Brutal_Strength"
-  },
-  {
-    "Name": "Calm Spirit",
-    "itemId": "Calm_Spirit"
   },
   {
     "Name": "Dark Sense",
@@ -46,10 +26,6 @@
   {
     "Name": "Distressing",
     "itemId": "Distressing"
-  },
-  {
-    "Name": "Empathy",
-    "itemId": "Empathy"
   },
   {
     "Name": "Enduring",
@@ -84,16 +60,8 @@
     "itemId": "Iron_Grasp"
   },
   {
-    "Name": "Iron Will",
-    "itemId": "Iron_Will"
-  },
-  {
     "Name": "Kindred",
     "itemId": "Kindred"
-  },
-  {
-    "Name": "Leader",
-    "itemId": "Leader"
   },
   {
     "Name": "Lightborn",
@@ -116,10 +84,6 @@
     "itemId": "No_One_Left_Behind"
   },
   {
-    "Name": "Open-Handed",
-    "itemId": "Open_Handed"
-  },
-  {
     "Name": "Plunderer's Instinct",
     "itemId": "Plunderers_Instinct"
   },
@@ -128,24 +92,8 @@
     "itemId": "Premonition"
   },
   {
-    "Name": "Prove Thyself",
-    "itemId": "Prove_Thyself"
-  },
-  {
-    "Name": "Quick & Quiet",
-    "itemId": "QuickQuiet"
-  },
-  {
     "Name": "Resilience",
     "itemId": "Resilience"
-  },
-  {
-    "Name": "Saboteur",
-    "itemId": "Saboteur"
-  },
-  {
-    "Name": "Self-Care",
-    "itemId": "Self_Care"
   },
   {
     "Name": "Slippery Meat",
@@ -168,10 +116,6 @@
     "itemId": "Spine_Chill"
   },
   {
-    "Name": "Sprint Burst",
-    "itemId": "Sprint_Burst"
-  },
-  {
     "Name": "This Is Not Happening",
     "itemId": "This_Is_Not_Happening"
   },
@@ -188,220 +132,12 @@
     "itemId": "Unrelenting"
   },
   {
-    "Name": "Up the Ante",
-    "itemId": "Up_The_Ante"
-  },
-  {
     "Name": "We'll make it",
     "itemId": "WellMakeIt"
   },
   {
     "Name": "Whispers",
     "itemId": "Whispers"
-  },
-  {
-    "Name": "Balanced Landing",
-    "itemId": "Balanced_Landing"
-  },
-  {
-    "Name": "Urban Evasion",
-    "itemId": "Urban_Evasion"
-  },
-  {
-    "Name": "Streetwise",
-    "itemId": "Streetwise"
-  },
-  {
-    "Name": "Breakdown",
-    "itemId": "Breakdown"
-  },
-  {
-    "Name": "Aftercare",
-    "itemId": "Aftercare"
-  },
-  {
-    "Name": "Distortion",
-    "itemId": "Distortion"
-  },
-  {
-    "Name": "Coulrophobia",
-    "itemId": "Coulrophobia"
-  },
-  {
-    "Name": "Pop Goes the Weasel",
-    "itemId": "pop_goes_the_weasel"
-  },
-  {
-    "Name": "Bamboozle",
-    "itemId": "Bamboozle"
-  },
-  {
-    "Name": "Windows of Opportunity",
-    "itemId": "WindowsOfOpportunity"
-  },
-  {
-    "Name": "Boil Over",
-    "itemId": "BoilOver"
-  },
-  {
-    "Name": "Dance With Me",
-    "itemId": "Dance_with_me"
-  },
-  {
-    "Name": "Borrowed Time",
-    "itemId": "BorrowedTime"
-  },
-  {
-    "Name": "Unbreakable",
-    "itemId": "SelfSufficient"
-  },
-  {
-    "Name": "Left Behind",
-    "itemId": "LeftBehind"
-  },
-  {
-    "Name": "Genetic Limits",
-    "itemId": "K32P01"
-  },
-  {
-    "Name": "Forced Hesitation",
-    "itemId": "K32P02"
-  },
-  {
-    "Name": "Machine Learning",
-    "itemId": "K32P03"
-  },
-  {
-    "Name": "Troubleshooter",
-    "itemId": "S37P01"
-  },
-  {
-    "Name": "Made for This",
-    "itemId": "S37P02"
-  },
-  {
-    "Name": "Scavenger",
-    "itemId": "S37P03"
-  },
-  {
-    "Name": "Technician",
-    "itemId": "Technician"
-  },
-  {
-    "Name": "Lithe",
-    "itemId": "Lithe"
-  },
-  {
-    "Name": "Alert",
-    "itemId": "Alert"
-  },
-  {
-    "Name": "Off the Record",
-    "itemId": "OffTheRecord"
-  },
-  {
-    "Name": "Red Herring",
-    "itemId": "RedHerring"
-  },
-  {
-    "Name": "For the People",
-    "itemId": "ForThePeople"
-  },
-  {
-    "Name": "Gearhead",
-    "itemId": "Gearhead"
-  },
-  {
-    "Name": "Dead Man’s Switch",
-    "itemId": "DeadMansSwitch"
-  },
-  {
-    "Name": "Hex: Retribution",
-    "itemId": "HexRetribution"
-  },
-  {
-    "Name": "Lucky Break",
-    "itemId": "LuckyBreak"
-  },
-  {
-    "Name": "Any Means Necessary",
-    "itemId": "AnyMeansNecessary"
-  },
-  {
-    "Name": "Breakout",
-    "itemId": "Breakout"
-  },
-  {
-    "Name": "Starstruck",
-    "itemId": "K23P01"
-  },
-  {
-    "Name": "Hex: Crowd Control",
-    "itemId": "K23P02"
-  },
-  {
-    "Name": "No Way Out",
-    "itemId": "K23P03"
-  },
-  {
-    "Name": "Fast Track",
-    "itemId": "S25P01"
-  },
-  {
-    "Name": "Smash Hit",
-    "itemId": "S25P02"
-  },
-  {
-    "Name": "Self-Preservation",
-    "itemId": "S25P03"
-  },
-  {
-    "Name": "Game Afoot",
-    "itemId": "K31P01"
-  },
-  {
-    "Name": "THWACK!",
-    "itemId": "K31P02"
-  },
-  {
-    "Name": "Leverage",
-    "itemId": "K31P03"
-  },
-  {
-    "Name": "Cut Loose",
-    "itemId": "S35P01"
-  },
-  {
-    "Name": "Friendly Competition",
-    "itemId": "S35P02"
-  },
-  {
-    "Name": "Teamwork: Power of Two",
-    "itemId": "S35P03"
-  },
-  {
-    "Name": "Background Player",
-    "itemId": "S36P01"
-  },
-  {
-    "Name": "Blood Rush",
-    "itemId": "S36P02"
-  },
-  {
-    "Name": "Teamwork: Collective Stealth",
-    "itemId": "S36P03"
-  },
-  {
-    "Name": "Soul Guard",
-    "itemId": "SoulGuard"
-  },
-  {
-    "Name": "Blood Pact",
-    "itemId": "BloodPact"
-  },
-  {
-    "Name": "Repressed Alliance ",
-    "itemId": "RepressedAlliance"
   },
   {
     "Name": "Hoarder",
@@ -416,88 +152,44 @@
     "itemId": "K22P03"
   },
   {
-    "Name": "Appraisal",
-    "itemId": "S24P01"
+    "Name": "Starstruck",
+    "itemId": "K23P01"
   },
   {
-    "Name": "Deception",
-    "itemId": "S24P02"
+    "Name": "Hex: Crowd Control",
+    "itemId": "K23P02"
   },
   {
-    "Name": "Power Struggle",
-    "itemId": "S24P03"
+    "Name": "No Way Out",
+    "itemId": "K23P03"
   },
   {
-    "Name": "Nowhere to Hide",
-    "itemId": "K30P01"
+    "Name": "Game Afoot",
+    "itemId": "K31P01"
   },
   {
-    "Name": "Hex: Face the Darkness",
-    "itemId": "K30P02"
+    "Name": "THWACK!",
+    "itemId": "K31P02"
   },
   {
-    "Name": "Hubris",
-    "itemId": "K30P03"
+    "Name": "Leverage",
+    "itemId": "K31P03"
   },
   {
-    "Name": "Potential Energy",
-    "itemId": "S34P01"
+    "Name": "Coulrophobia",
+    "itemId": "Coulrophobia"
   },
   {
-    "Name": "Fogwise",
-    "itemId": "S34P02"
+    "Name": "Pop Goes the Weasel",
+    "itemId": "pop_goes_the_weasel"
   },
   {
-    "Name": "Quick Gambit",
-    "itemId": "S34P03"
+    "Name": "Bamboozle",
+    "itemId": "Bamboozle"
   },
   {
-    "Name": "Dragon’s Grip",
-    "itemId": "DragonsGrip"
-  },
-  {
-    "Name": "Hex: Undying",
-    "itemId": "HexUndying"
-  },
-  {
-    "Name": "Hex: Blood Favor",
-    "itemId": "HexBloodFavor"
-  },
-  {
-    "Name": "Visionary",
-    "itemId": "Visionary"
-  },
-  {
-    "Name": "Desperate Measures",
-    "itemId": "DesperateMeasures"
-  },
-  {
-    "Name": "Built to Last",
-    "itemId": "BuiltToLast"
-  },
-  {
-    "Name": "Dead Hard",
-    "itemId": "DeadHard"
-  },
-  {
-    "Name": "No Mither",
-    "itemId": "NoMither"
-  },
-  {
-    "Name": "We're Gonna Live Forever",
-    "itemId": "WereGonnaLiveForever"
-  },
-  {
-    "Name": "Diversion",
-    "itemId": "Diversion"
-  },
-  {
-    "Name": "Deliverance",
-    "itemId": "Deliverance"
-  },
-  {
-    "Name": "Autodidact",
-    "itemId": "Autodidact"
+    "Name": "Shattered Hope",
+    "itemId": "BoonDestroyer"
   },
   {
     "Name": "Spirit Fury",
@@ -512,34 +204,6 @@
     "itemId": "Rancor"
   },
   {
-    "Name": "Dissolution",
-    "itemId": "K28P01"
-  },
-  {
-    "Name": "Darkness Revealed",
-    "itemId": "K28P02"
-  },
-  {
-    "Name": "Septic Touch",
-    "itemId": "K28P03"
-  },
-  {
-    "Name": "Inner Focus",
-    "itemId": "S31P01"
-  },
-  {
-    "Name": "Residual Manifest",
-    "itemId": "S31P02"
-  },
-  {
-    "Name": "Overzealous",
-    "itemId": "S31P03"
-  },
-  {
-    "Name": "Shattered Hope",
-    "itemId": "BoonDestroyer"
-  },
-  {
     "Name": "Grim Embrace",
     "itemId": "K26P01"
   },
@@ -552,532 +216,28 @@
     "itemId": "K26P03"
   },
   {
-    "Name": "Overcome",
-    "itemId": "S29P01"
+    "Name": "Gearhead",
+    "itemId": "Gearhead"
   },
   {
-    "Name": "Corrective Action",
-    "itemId": "S29P02"
+    "Name": "Dead Man’s Switch",
+    "itemId": "DeadMansSwitch"
   },
   {
-    "Name": "Boon: Exponential",
-    "itemId": "S29P03"
+    "Name": "Hex: Retribution",
+    "itemId": "HexRetribution"
   },
   {
-    "Name": "Unbound",
-    "itemId": "K35P01"
+    "Name": "Dragon’s Grip",
+    "itemId": "DragonsGrip"
   },
   {
-    "Name": "Unforeseen",
-    "itemId": "K35P02"
+    "Name": "Hex: Undying",
+    "itemId": "HexUndying"
   },
   {
-    "Name": "Undone",
-    "itemId": "K35P03"
-  },
-  {
-    "Name": "Invocation: Weaving Spiders",
-    "itemId": "S41P01"
-  },
-  {
-    "Name": "Strength in Shadows",
-    "itemId": "S41P02"
-  },
-  {
-    "Name": "Wicked",
-    "itemId": "S41P03"
-  },
-  {
-    "Name": "Sole Survivor",
-    "itemId": "SoleSurvivor"
-  },
-  {
-    "Name": "Decisive Strike",
-    "itemId": "DecisiveStrike"
-  },
-  {
-    "Name": "Object of Obsession",
-    "itemId": "ObjectOfObsession"
-  },
-  {
-    "Name": "Clairvoyance",
-    "itemId": "S28P01"
-  },
-  {
-    "Name": "Boon: Circle of Healing",
-    "itemId": "S28P02"
-  },
-  {
-    "Name": "Boon: Shadow Step",
-    "itemId": "S28P03"
-  },
-  {
-    "Name": "Solidarity",
-    "itemId": "Solidarity"
-  },
-  {
-    "Name": "Poised",
-    "itemId": "Poised"
-  },
-  {
-    "Name": "Head On",
-    "itemId": "HeadOn"
-  },
-  {
-    "Name": "Pharmacy",
-    "itemId": "Pharmacy"
-  },
-  {
-    "Name": "Vigil",
-    "itemId": "Vigil"
-  },
-  {
-    "Name": "Wake Up!",
-    "itemId": "WakeUp"
-  },
-  {
-    "Name": "Counterforce",
-    "itemId": "S26P01"
-  },
-  {
-    "Name": "Resurgence",
-    "itemId": "S26P02"
-  },
-  {
-    "Name": "Blast Mine",
-    "itemId": "S26P03"
-  },
-  {
-    "Name": "Parental Guidance",
-    "itemId": "S30P01"
-  },
-  {
-    "Name": "Empathic Connection",
-    "itemId": "S30P02"
-  },
-  {
-    "Name": "Boon: Dark Theory",
-    "itemId": "S30P03"
-  },
-  {
-    "Name": "Babysitter",
-    "itemId": "Babysitter"
-  },
-  {
-    "Name": "Camaraderie",
-    "itemId": "Camaraderie"
-  },
-  {
-    "Name": "Second Wind",
-    "itemId": "SecondWind"
-  },
-  {
-    "Name": "Lucky Star",
-    "itemId": "S39P01"
-  },
-  {
-    "Name": "Chemical Trap",
-    "itemId": "S39P02"
-  },
-  {
-    "Name": "Light-footed",
-    "itemId": "S39P03"
-  },
-  {
-    "Name": "I'm All Ears",
-    "itemId": "ImAllEars"
-  },
-  {
-    "Name": "Thrilling Tremors",
-    "itemId": "ThrillingTremors"
-  },
-  {
-    "Name": "Furtive Chase",
-    "itemId": "FurtiveChase"
-  },
-  {
-    "Name": "Dramaturgy",
-    "itemId": "S38P01"
-  },
-  {
-    "Name": "Scene Partner",
-    "itemId": "S38P02"
-  },
-  {
-    "Name": "Plot Twist",
-    "itemId": "S38P03"
-  },
-  {
-    "Name": "Bite the Bullet",
-    "itemId": "S27P01"
-  },
-  {
-    "Name": "Flashbang",
-    "itemId": "S27P02"
-  },
-  {
-    "Name": "Rookie Spirit",
-    "itemId": "S27P03"
-  },
-  {
-    "Name": "Lethal Pursuer",
-    "itemId": "K24P01"
-  },
-  {
-    "Name": "Hysteria",
-    "itemId": "K24P02"
-  },
-  {
-    "Name": "Eruption",
-    "itemId": "K24P03"
-  },
-  {
-    "Name": "Forced Penance",
-    "itemId": "ForcedPenance"
-  },
-  {
-    "Name": "Trail of Torment",
-    "itemId": "TrailofTorment"
-  },
-  {
-    "Name": "Deathbound",
-    "itemId": "Deathbound"
-  },
-  {
-    "Name": "Zanshin Tactics",
-    "itemId": "ZanshinTactics"
-  },
-  {
-    "Name": "Blood Echo",
-    "itemId": "BloodEcho"
-  },
-  {
-    "Name": "Nemesis",
-    "itemId": "Nemesis"
-  },
-  {
-    "Name": "Wiretap",
-    "itemId": "S32P01"
-  },
-  {
-    "Name": "Reactive Healing",
-    "itemId": "S32P02"
-  },
-  {
-    "Name": "Low Profile",
-    "itemId": "S32P03"
-  },
-  {
-    "Name": "Ultimate Weapon",
-    "itemId": "K33P01"
-  },
-  {
-    "Name": "Rapid Brutality",
-    "itemId": "K33P02"
-  },
-  {
-    "Name": "Alien Instinct",
-    "itemId": "K33P03"
-  },
-  {
-    "Name": "Hex: Two Can Play ",
-    "itemId": "K34P01"
-  },
-  {
-    "Name": "Friends ‘Til the End ",
-    "itemId": "K34P02"
-  },
-  {
-    "Name": "Batteries Included ",
-    "itemId": "K34P03"
-  },
-  {
-    "Name": "Thanatophobia",
-    "itemId": "Thanatophobia"
-  },
-  {
-    "Name": "A Nurse's Calling",
-    "itemId": "NurseCalling"
-  },
-  {
-    "Name": "Stridor",
-    "itemId": "Stridor"
-  },
-  {
-    "Name": "Tenacity",
-    "itemId": "Tenacity"
-  },
-  {
-    "Name": "Detective's Hunch",
-    "itemId": "DetectivesHunch"
-  },
-  {
-    "Name": "Stake Out",
-    "itemId": "StakeOut"
-  },
-  {
-    "Name": "Better Than New",
-    "itemId": "S33P01"
-  },
-  {
-    "Name": "Reassurance",
-    "itemId": "S33P02"
-  },
-  {
-    "Name": "Hyperfocus",
-    "itemId": "S33P03"
-  },
-  {
-    "Name": "Bloodhound",
-    "itemId": "BloodHound"
-  },
-  {
-    "Name": "Predator",
-    "itemId": "Predator"
-  },
-  {
-    "Name": "Shadowborn",
-    "itemId": "Shadowborn"
-  },
-  {
-    "Name": "Corrupt Intervention",
-    "itemId": "CorruptIntervention"
-  },
-  {
-    "Name": "Infectious Fright",
-    "itemId": "InfectiousFright"
-  },
-  {
-    "Name": "Dark Devotion",
-    "itemId": "DarkDevotion"
-  },
-  {
-    "Name": "Champion of Light",
-    "itemId": "S40P01"
-  },
-  {
-    "Name": "Boon: Illumination",
-    "itemId": "S40P02"
-  },
-  {
-    "Name": "Deadline",
-    "itemId": "S40P03"
-  },
-  {
-    "Name": "Overwhelming Presence",
-    "itemId": "OverwhelmingPresence"
-  },
-  {
-    "Name": "Monitor & Abuse",
-    "itemId": "MonitorAndAbuse"
-  },
-  {
-    "Name": "Overcharge",
-    "itemId": "GeneratorOvercharge"
-  },
-  {
-    "Name": "Superior Anatomy",
-    "itemId": "K29P01"
-  },
-  {
-    "Name": "Awakened Awareness",
-    "itemId": "K29P02"
-  },
-  {
-    "Name": "Terminus",
-    "itemId": "K29P03"
-  },
-  {
-    "Name": "Better Together",
-    "itemId": "BetterTogether"
-  },
-  {
-    "Name": "Fixated",
-    "itemId": "Fixated"
-  },
-  {
-    "Name": "Inner Strength",
-    "itemId": "InnerStrength"
-  },
-  {
-    "Name": "Discordance",
-    "itemId": "Discordance"
-  },
-  {
-    "Name": "Mad Grit",
-    "itemId": "MadGrit"
-  },
-  {
-    "Name": "Iron Maiden",
-    "itemId": "Ironmaiden"
-  },
-  {
-    "Name": "Flip-Flop",
-    "itemId": "FlipFlop"
-  },
-  {
-    "Name": "Buckle Up",
-    "itemId": "BuckleUp"
-  },
-  {
-    "Name": "Mettle of Man",
-    "itemId": "TheMettleOfMan"
-  },
-  {
-    "Name": "Save the best for last",
-    "itemId": "Save_The_Best_For_Last"
-  },
-  {
-    "Name": "Dying Light",
-    "itemId": "Dying_Light"
-  },
-  {
-    "Name": "Play With Your Food",
-    "itemId": "Play_With_Your_Food"
-  },
-  {
-    "Name": "Finesse",
-    "itemId": "S43P01"
-  },
-  {
-    "Name": "Hardened",
-    "itemId": "S43P02"
-  },
-  {
-    "Name": "Specialist",
-    "itemId": "S43P03"
-  },
-  {
-    "Name": "Scourge Hook: Floods of Rage",
-    "itemId": "K27P01"
-  },
-  {
-    "Name": "Call of Brine",
-    "itemId": "K27P02"
-  },
-  {
-    "Name": "Merciless Storm",
-    "itemId": "K27P03"
-  },
-  {
-    "Name": "Surge",
-    "itemId": "Surge"
-  },
-  {
-    "Name": "Mindbreaker",
-    "itemId": "Mindbreaker"
-  },
-  {
-    "Name": "Cruel Limits",
-    "itemId": "CruelConfinement"
-  },
-  {
-    "Name": "Weave Attunement",
-    "itemId": "K36P01"
-  },
-  {
-    "Name": "Languid Touch",
-    "itemId": "K36P02"
-  },
-  {
-    "Name": "Dark Arrogance",
-    "itemId": "K36P03"
-  },
-  {
-    "Name": "Scourge Hook: Hangman's Trick",
-    "itemId": "HangmansTrick"
-  },
-  {
-    "Name": "Surveillance",
-    "itemId": "Surveillance"
-  },
-  {
-    "Name": "Make your Choice",
-    "itemId": "MakeYourChoice"
-  },
-  {
-    "Name": "Barbecue & Chili",
-    "itemId": "BBQAndChilli"
-  },
-  {
-    "Name": "Knock Out",
-    "itemId": "InTheDark"
-  },
-  {
-    "Name": "Franklin's Demise",
-    "itemId": "FranklinsLoss"
-  },
-  {
-    "Name": "Eyes of Belmont",
-    "itemId": "S44P01"
-  },
-  {
-    "Name": "Exultation",
-    "itemId": "S44P02"
-  },
-  {
-    "Name": "Moment of Glory",
-    "itemId": "S44P03"
-  },
-  {
-    "Name": "Beast of Prey",
-    "itemId": "BeastOfPrey"
-  },
-  {
-    "Name": "Hex: Huntress Lullaby",
-    "itemId": "Hex_HuntressLullaby"
-  },
-  {
-    "Name": "Territorial Imperative",
-    "itemId": "TerritorialImperative"
-  },
-  {
-    "Name": "Mirrored Illusion",
-    "itemId": "S42P01"
-  },
-  {
-    "Name": "Bardic Inspiration",
-    "itemId": "S42P02"
-  },
-  {
-    "Name": "Still Sight",
-    "itemId": "S42P03"
-  },
-  {
-    "Name": "Blood Warden",
-    "itemId": "BloodWarden"
-  },
-  {
-    "Name": "Fire Up",
-    "itemId": "FireUp"
-  },
-  {
-    "Name": "Remember Me",
-    "itemId": "RememberMe"
-  },
-  {
-    "Name": "Deadlock",
-    "itemId": "K25P01"
-  },
-  {
-    "Name": "Hex: Plaything",
-    "itemId": "K25P02"
-  },
-  {
-    "Name": "Scourge Hook: Gift of Pain",
-    "itemId": "K25P03"
-  },
-  {
-    "Name": "All-Shaking Thunder",
-    "itemId": "K38P01"
-  },
-  {
-    "Name": "Scourge Hook: Jagged Compass",
-    "itemId": "K38P02"
-  },
-  {
-    "Name": "No Quarter",
-    "itemId": "K38P03"
+    "Name": "Hex: Blood Favor",
+    "itemId": "HexBloodFavor"
   },
   {
     "Name": "Invocation: Treacherous Crows",
@@ -1092,6 +252,18 @@
     "itemId": "S45P03"
   },
   {
+    "Name": "All-Shaking Thunder",
+    "itemId": "K38P01"
+  },
+  {
+    "Name": "Scourge Hook: Jagged Compass",
+    "itemId": "K38P02"
+  },
+  {
+    "Name": "No Quarter",
+    "itemId": "K38P03"
+  },
+  {
     "Name": "Hex: Wretched Fate",
     "itemId": "K37P01"
   },
@@ -1102,5 +274,917 @@
   {
     "Name": "Dominance",
     "itemId": "K37P03"
+  },
+  {
+    "Name": "Balanced Landing",
+    "itemId": "Balanced_Landing"
+  },
+  {
+    "Name": "Urban Evasion",
+    "itemId": "Urban_Evasion"
+  },
+  {
+    "Name": "Streetwise",
+    "itemId": "Streetwise"
+  },
+  {
+    "Name": "Botany Knowledge",
+    "itemId": "Botany_Knowledge"
+  },
+  {
+    "Name": "Empathy",
+    "itemId": "Empathy"
+  },
+  {
+    "Name": "Self-Care",
+    "itemId": "Self_Care"
+  },
+  {
+    "Name": "Solidarity",
+    "itemId": "Solidarity"
+  },
+  {
+    "Name": "Poised",
+    "itemId": "Poised"
+  },
+  {
+    "Name": "Head On",
+    "itemId": "HeadOn"
+  },
+  {
+    "Name": "Technician",
+    "itemId": "Technician"
+  },
+  {
+    "Name": "Lithe",
+    "itemId": "Lithe"
+  },
+  {
+    "Name": "Alert",
+    "itemId": "Alert"
+  },
+  {
+    "Name": "Babysitter",
+    "itemId": "Babysitter"
+  },
+  {
+    "Name": "Camaraderie",
+    "itemId": "Camaraderie"
+  },
+  {
+    "Name": "Second Wind",
+    "itemId": "SecondWind"
+  },
+  {
+    "Name": "Visionary",
+    "itemId": "Visionary"
+  },
+  {
+    "Name": "Desperate Measures",
+    "itemId": "DesperateMeasures"
+  },
+  {
+    "Name": "Built to Last",
+    "itemId": "BuiltToLast"
+  },
+  {
+    "Name": "Lucky Break",
+    "itemId": "LuckyBreak"
+  },
+  {
+    "Name": "Any Means Necessary",
+    "itemId": "AnyMeansNecessary"
+  },
+  {
+    "Name": "Breakout",
+    "itemId": "Breakout"
+  },
+  {
+    "Name": "Breakdown",
+    "itemId": "Breakdown"
+  },
+  {
+    "Name": "Aftercare",
+    "itemId": "Aftercare"
+  },
+  {
+    "Name": "Distortion",
+    "itemId": "Distortion"
+  },
+  {
+    "Name": "Windows of Opportunity",
+    "itemId": "WindowsOfOpportunity"
+  },
+  {
+    "Name": "Boil Over",
+    "itemId": "BoilOver"
+  },
+  {
+    "Name": "Dance With Me",
+    "itemId": "Dance_with_me"
+  },
+  {
+    "Name": "Better Than New",
+    "itemId": "S33P01"
+  },
+  {
+    "Name": "Reassurance",
+    "itemId": "S33P02"
+  },
+  {
+    "Name": "Hyperfocus",
+    "itemId": "S33P03"
+  },
+  {
+    "Name": "Calm Spirit",
+    "itemId": "Calm_Spirit"
+  },
+  {
+    "Name": "Iron Will",
+    "itemId": "Iron_Will"
+  },
+  {
+    "Name": "Saboteur",
+    "itemId": "Saboteur"
+  },
+  {
+    "Name": "Pharmacy",
+    "itemId": "Pharmacy"
+  },
+  {
+    "Name": "Vigil",
+    "itemId": "Vigil"
+  },
+  {
+    "Name": "Wake Up!",
+    "itemId": "WakeUp"
+  },
+  {
+    "Name": "Diversion",
+    "itemId": "Diversion"
+  },
+  {
+    "Name": "Deliverance",
+    "itemId": "Deliverance"
+  },
+  {
+    "Name": "Autodidact",
+    "itemId": "Autodidact"
+  },
+  {
+    "Name": "Cut Loose",
+    "itemId": "S35P01"
+  },
+  {
+    "Name": "Friendly Competition",
+    "itemId": "S35P02"
+  },
+  {
+    "Name": "Teamwork: Power of Two",
+    "itemId": "S35P03"
+  },
+  {
+    "Name": "Troubleshooter",
+    "itemId": "S37P01"
+  },
+  {
+    "Name": "Made for This",
+    "itemId": "S37P02"
+  },
+  {
+    "Name": "Scavenger",
+    "itemId": "S37P03"
+  },
+  {
+    "Name": "Tenacity",
+    "itemId": "Tenacity"
+  },
+  {
+    "Name": "Detective's Hunch",
+    "itemId": "DetectivesHunch"
+  },
+  {
+    "Name": "Stake Out",
+    "itemId": "StakeOut"
+  },
+  {
+    "Name": "Invocation: Weaving Spiders",
+    "itemId": "S41P01"
+  },
+  {
+    "Name": "Strength in Shadows",
+    "itemId": "S41P02"
+  },
+  {
+    "Name": "Wicked",
+    "itemId": "S41P03"
+  },
+  {
+    "Name": "Off the Record",
+    "itemId": "OffTheRecord"
+  },
+  {
+    "Name": "Red Herring",
+    "itemId": "RedHerring"
+  },
+  {
+    "Name": "For the People",
+    "itemId": "ForThePeople"
+  },
+  {
+    "Name": "Thanatophobia",
+    "itemId": "Thanatophobia"
+  },
+  {
+    "Name": "A Nurse's Calling",
+    "itemId": "NurseCalling"
+  },
+  {
+    "Name": "Stridor",
+    "itemId": "Stridor"
+  },
+  {
+    "Name": "Road Life",
+    "itemId": "S49P01"
+  },
+  {
+    "Name": "ONE-TWO-THREE-FOUR!",
+    "itemId": "S49P02"
+  },
+  {
+    "Name": "Ghost Notes",
+    "itemId": "S49P03"
+  },
+  {
+    "Name": "Dead Hard",
+    "itemId": "DeadHard"
+  },
+  {
+    "Name": "No Mither",
+    "itemId": "NoMither"
+  },
+  {
+    "Name": "We're Gonna Live Forever",
+    "itemId": "WereGonnaLiveForever"
+  },
+  {
+    "Name": "Scourge Hook: Hangman's Trick",
+    "itemId": "HangmansTrick"
+  },
+  {
+    "Name": "Surveillance",
+    "itemId": "Surveillance"
+  },
+  {
+    "Name": "Make your Choice",
+    "itemId": "MakeYourChoice"
+  },
+  {
+    "Name": "Overcome",
+    "itemId": "S29P01"
+  },
+  {
+    "Name": "Corrective Action",
+    "itemId": "S29P02"
+  },
+  {
+    "Name": "Boon: Exponential",
+    "itemId": "S29P03"
+  },
+  {
+    "Name": "Deadlock",
+    "itemId": "K25P01"
+  },
+  {
+    "Name": "Hex: Plaything",
+    "itemId": "K25P02"
+  },
+  {
+    "Name": "Scourge Hook: Gift of Pain",
+    "itemId": "K25P03"
+  },
+  {
+    "Name": "Flip-Flop",
+    "itemId": "FlipFlop"
+  },
+  {
+    "Name": "Buckle Up",
+    "itemId": "BuckleUp"
+  },
+  {
+    "Name": "Mettle of Man",
+    "itemId": "TheMettleOfMan"
+  },
+  {
+    "Name": "Adrenaline",
+    "itemId": "Adrenaline"
+  },
+  {
+    "Name": "Quick & Quiet",
+    "itemId": "QuickQuiet"
+  },
+  {
+    "Name": "Sprint Burst",
+    "itemId": "Sprint_Burst"
+  },
+  {
+    "Name": "Bond",
+    "itemId": "Bond"
+  },
+  {
+    "Name": "Leader",
+    "itemId": "Leader"
+  },
+  {
+    "Name": "Prove Thyself",
+    "itemId": "Prove_Thyself"
+  },
+  {
+    "Name": "Parental Guidance",
+    "itemId": "S30P01"
+  },
+  {
+    "Name": "Empathic Connection",
+    "itemId": "S30P02"
+  },
+  {
+    "Name": "Boon: Dark Theory",
+    "itemId": "S30P03"
+  },
+  {
+    "Name": "Ace in the Hole",
+    "itemId": "Ace_In_The_Hole"
+  },
+  {
+    "Name": "Open-Handed",
+    "itemId": "Open_Handed"
+  },
+  {
+    "Name": "Up the Ante",
+    "itemId": "Up_The_Ante"
+  },
+  {
+    "Name": "Bite the Bullet",
+    "itemId": "S27P01"
+  },
+  {
+    "Name": "Flashbang",
+    "itemId": "S27P02"
+  },
+  {
+    "Name": "Rookie Spirit",
+    "itemId": "S27P03"
+  },
+  {
+    "Name": "Forced Penance",
+    "itemId": "ForcedPenance"
+  },
+  {
+    "Name": "Trail of Torment",
+    "itemId": "TrailofTorment"
+  },
+  {
+    "Name": "Deathbound",
+    "itemId": "Deathbound"
+  },
+  {
+    "Name": "Inner Focus",
+    "itemId": "S31P01"
+  },
+  {
+    "Name": "Residual Manifest",
+    "itemId": "S31P02"
+  },
+  {
+    "Name": "Overzealous",
+    "itemId": "S31P03"
+  },
+  {
+    "Name": "Bloodhound",
+    "itemId": "BloodHound"
+  },
+  {
+    "Name": "Predator",
+    "itemId": "Predator"
+  },
+  {
+    "Name": "Shadowborn",
+    "itemId": "Shadowborn"
+  },
+  {
+    "Name": "Scourge Hook: Floods of Rage",
+    "itemId": "K27P01"
+  },
+  {
+    "Name": "Call of Brine",
+    "itemId": "K27P02"
+  },
+  {
+    "Name": "Merciless Storm",
+    "itemId": "K27P03"
+  },
+  {
+    "Name": "Clairvoyance",
+    "itemId": "S28P01"
+  },
+  {
+    "Name": "Boon: Circle of Healing",
+    "itemId": "S28P02"
+  },
+  {
+    "Name": "Boon: Shadow Step",
+    "itemId": "S28P03"
+  },
+  {
+    "Name": "Mirrored Illusion",
+    "itemId": "S42P01"
+  },
+  {
+    "Name": "Bardic Inspiration",
+    "itemId": "S42P02"
+  },
+  {
+    "Name": "Still Sight",
+    "itemId": "S42P03"
+  },
+  {
+    "Name": "Ultimate Weapon",
+    "itemId": "K33P01"
+  },
+  {
+    "Name": "Rapid Brutality",
+    "itemId": "K33P02"
+  },
+  {
+    "Name": "Alien Instinct",
+    "itemId": "K33P03"
+  },
+  {
+    "Name": "Better Together",
+    "itemId": "BetterTogether"
+  },
+  {
+    "Name": "Fixated",
+    "itemId": "Fixated"
+  },
+  {
+    "Name": "Inner Strength",
+    "itemId": "InnerStrength"
+  },
+  {
+    "Name": "Soul Guard",
+    "itemId": "SoulGuard"
+  },
+  {
+    "Name": "Blood Pact",
+    "itemId": "BloodPact"
+  },
+  {
+    "Name": "Repressed Alliance ",
+    "itemId": "RepressedAlliance"
+  },
+  {
+    "Name": "Appraisal",
+    "itemId": "S24P01"
+  },
+  {
+    "Name": "Deception",
+    "itemId": "S24P02"
+  },
+  {
+    "Name": "Power Struggle",
+    "itemId": "S24P03"
+  },
+  {
+    "Name": "Do No Harm",
+    "itemId": "S46P01"
+  },
+  {
+    "Name": "Duty of Care",
+    "itemId": "S46P02"
+  },
+  {
+    "Name": "Rapid Response",
+    "itemId": "S46P03"
+  },
+  {
+    "Name": "Potential Energy",
+    "itemId": "S34P01"
+  },
+  {
+    "Name": "Fogwise",
+    "itemId": "S34P02"
+  },
+  {
+    "Name": "Quick Gambit",
+    "itemId": "S34P03"
+  },
+  {
+    "Name": "Counterforce",
+    "itemId": "S26P01"
+  },
+  {
+    "Name": "Resurgence",
+    "itemId": "S26P02"
+  },
+  {
+    "Name": "Blast Mine",
+    "itemId": "S26P03"
+  },
+  {
+    "Name": "Apocalyptic Ingenuity",
+    "itemId": "S47P01"
+  },
+  {
+    "Name": "Come and Get Me!",
+    "itemId": "S47P02"
+  },
+  {
+    "Name": "Teamwork: Toughen Up",
+    "itemId": "S47P03"
+  },
+  {
+    "Name": "I'm All Ears",
+    "itemId": "ImAllEars"
+  },
+  {
+    "Name": "Thrilling Tremors",
+    "itemId": "ThrillingTremors"
+  },
+  {
+    "Name": "Furtive Chase",
+    "itemId": "FurtiveChase"
+  },
+  {
+    "Name": "Sole Survivor",
+    "itemId": "SoleSurvivor"
+  },
+  {
+    "Name": "Decisive Strike",
+    "itemId": "DecisiveStrike"
+  },
+  {
+    "Name": "Object of Obsession",
+    "itemId": "ObjectOfObsession"
+  },
+  {
+    "Name": "Zanshin Tactics",
+    "itemId": "ZanshinTactics"
+  },
+  {
+    "Name": "Blood Echo",
+    "itemId": "BloodEcho"
+  },
+  {
+    "Name": "Nemesis",
+    "itemId": "Nemesis"
+  },
+  {
+    "Name": "Beast of Prey",
+    "itemId": "BeastOfPrey"
+  },
+  {
+    "Name": "Hex: Huntress Lullaby",
+    "itemId": "Hex_HuntressLullaby"
+  },
+  {
+    "Name": "Territorial Imperative",
+    "itemId": "TerritorialImperative"
+  },
+  {
+    "Name": "Champion of Light",
+    "itemId": "S40P01"
+  },
+  {
+    "Name": "Boon: Illumination",
+    "itemId": "S40P02"
+  },
+  {
+    "Name": "Deadline",
+    "itemId": "S40P03"
+  },
+  {
+    "Name": "Genetic Limits",
+    "itemId": "K32P01"
+  },
+  {
+    "Name": "Forced Hesitation",
+    "itemId": "K32P02"
+  },
+  {
+    "Name": "Machine Learning",
+    "itemId": "K32P03"
+  },
+  {
+    "Name": "Superior Anatomy",
+    "itemId": "K29P01"
+  },
+  {
+    "Name": "Awakened Awareness",
+    "itemId": "K29P02"
+  },
+  {
+    "Name": "Terminus",
+    "itemId": "K29P03"
+  },
+  {
+    "Name": "Dramaturgy",
+    "itemId": "S38P01"
+  },
+  {
+    "Name": "Scene Partner",
+    "itemId": "S38P02"
+  },
+  {
+    "Name": "Plot Twist",
+    "itemId": "S38P03"
+  },
+  {
+    "Name": "Borrowed Time",
+    "itemId": "BorrowedTime"
+  },
+  {
+    "Name": "Unbreakable",
+    "itemId": "SelfSufficient"
+  },
+  {
+    "Name": "Left Behind",
+    "itemId": "LeftBehind"
+  },
+  {
+    "Name": "Eyes of Belmont",
+    "itemId": "S44P01"
+  },
+  {
+    "Name": "Exultation",
+    "itemId": "S44P02"
+  },
+  {
+    "Name": "Moment of Glory",
+    "itemId": "S44P03"
+  },
+  {
+    "Name": "Discordance",
+    "itemId": "Discordance"
+  },
+  {
+    "Name": "Mad Grit",
+    "itemId": "MadGrit"
+  },
+  {
+    "Name": "Iron Maiden",
+    "itemId": "Ironmaiden"
+  },
+  {
+    "Name": "Lucky Star",
+    "itemId": "S39P01"
+  },
+  {
+    "Name": "Chemical Trap",
+    "itemId": "S39P02"
+  },
+  {
+    "Name": "Light-footed",
+    "itemId": "S39P03"
+  },
+  {
+    "Name": "Corrupt Intervention",
+    "itemId": "CorruptIntervention"
+  },
+  {
+    "Name": "Infectious Fright",
+    "itemId": "InfectiousFright"
+  },
+  {
+    "Name": "Dark Devotion",
+    "itemId": "DarkDevotion"
+  },
+  {
+    "Name": "Finesse",
+    "itemId": "S43P01"
+  },
+  {
+    "Name": "Hardened",
+    "itemId": "S43P02"
+  },
+  {
+    "Name": "Specialist",
+    "itemId": "S43P03"
+  },
+  {
+    "Name": "Ravenous ",
+    "itemId": "K41P01"
+  },
+  {
+    "Name": "Wandering Eye ",
+    "itemId": "K41P02"
+  },
+  {
+    "Name": "Hex: Overture of Doom",
+    "itemId": "K41P03"
+  },
+  {
+    "Name": "Surge",
+    "itemId": "Surge"
+  },
+  {
+    "Name": "Mindbreaker",
+    "itemId": "Mindbreaker"
+  },
+  {
+    "Name": "Cruel Limits",
+    "itemId": "CruelConfinement"
+  },
+  {
+    "Name": "Lethal Pursuer",
+    "itemId": "K24P01"
+  },
+  {
+    "Name": "Hysteria",
+    "itemId": "K24P02"
+  },
+  {
+    "Name": "Eruption",
+    "itemId": "K24P03"
+  },
+  {
+    "Name": "Overwhelming Presence",
+    "itemId": "OverwhelmingPresence"
+  },
+  {
+    "Name": "Monitor & Abuse",
+    "itemId": "MonitorAndAbuse"
+  },
+  {
+    "Name": "Overcharge",
+    "itemId": "GeneratorOvercharge"
+  },
+  {
+    "Name": "Weave Attunement",
+    "itemId": "K36P01"
+  },
+  {
+    "Name": "Languid Touch",
+    "itemId": "K36P02"
+  },
+  {
+    "Name": "Dark Arrogance",
+    "itemId": "K36P03"
+  },
+  {
+    "Name": "Fast Track",
+    "itemId": "S25P01"
+  },
+  {
+    "Name": "Smash Hit",
+    "itemId": "S25P02"
+  },
+  {
+    "Name": "Self-Preservation",
+    "itemId": "S25P03"
+  },
+  {
+    "Name": "Save the best for last",
+    "itemId": "Save_The_Best_For_Last"
+  },
+  {
+    "Name": "Dying Light",
+    "itemId": "Dying_Light"
+  },
+  {
+    "Name": "Play With Your Food",
+    "itemId": "Play_With_Your_Food"
+  },
+  {
+    "Name": "Hex: Nothing But Misery",
+    "itemId": "K39P01"
+  },
+  {
+    "Name": "Forever Entwined",
+    "itemId": "K39P02"
+  },
+  {
+    "Name": "None Are Free",
+    "itemId": "K39P03"
+  },
+  {
+    "Name": "Nowhere to Hide",
+    "itemId": "K30P01"
+  },
+  {
+    "Name": "Hex: Face the Darkness",
+    "itemId": "K30P02"
+  },
+  {
+    "Name": "Hubris",
+    "itemId": "K30P03"
+  },
+  {
+    "Name": "Barbecue & Chili",
+    "itemId": "BBQAndChilli"
+  },
+  {
+    "Name": "Knock Out",
+    "itemId": "InTheDark"
+  },
+  {
+    "Name": "Franklin's Demise",
+    "itemId": "FranklinsLoss"
+  },
+  {
+    "Name": "Help Wanted",
+    "itemId": "K40P01"
+  },
+  {
+    "Name": "Phantom Fear",
+    "itemId": "K40P02"
+  },
+  {
+    "Name": "Haywire",
+    "itemId": "K40P03"
+  },
+  {
+    "Name": "Background Player",
+    "itemId": "S36P01"
+  },
+  {
+    "Name": "Blood Rush",
+    "itemId": "S36P02"
+  },
+  {
+    "Name": "Teamwork: Collective Stealth",
+    "itemId": "S36P03"
+  },
+  {
+    "Name": "Dissolution",
+    "itemId": "K28P01"
+  },
+  {
+    "Name": "Darkness Revealed",
+    "itemId": "K28P02"
+  },
+  {
+    "Name": "Septic Touch",
+    "itemId": "K28P03"
+  },
+  {
+    "Name": "Conviction",
+    "itemId": "S48P01"
+  },
+  {
+    "Name": "Last Stand",
+    "itemId": "S48P02"
+  },
+  {
+    "Name": "Teamwork: Throw Down",
+    "itemId": "S48P03"
+  },
+  {
+    "Name": "Hex: Two Can Play ",
+    "itemId": "K34P01"
+  },
+  {
+    "Name": "Friends ‘Til the End ",
+    "itemId": "K34P02"
+  },
+  {
+    "Name": "Batteries Included ",
+    "itemId": "K34P03"
+  },
+  {
+    "Name": "Wiretap",
+    "itemId": "S32P01"
+  },
+  {
+    "Name": "Reactive Healing",
+    "itemId": "S32P02"
+  },
+  {
+    "Name": "Low Profile",
+    "itemId": "S32P03"
+  },
+  {
+    "Name": "Blood Warden",
+    "itemId": "BloodWarden"
+  },
+  {
+    "Name": "Fire Up",
+    "itemId": "FireUp"
+  },
+  {
+    "Name": "Remember Me",
+    "itemId": "RememberMe"
+  },
+  {
+    "Name": "Unbound",
+    "itemId": "K35P01"
+  },
+  {
+    "Name": "Unforeseen",
+    "itemId": "K35P02"
+  },
+  {
+    "Name": "Undone",
+    "itemId": "K35P03"
   }
 ]
