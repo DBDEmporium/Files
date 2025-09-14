@@ -1,43 +1,11 @@
 [
   {
-    "Name": "@#K36_MagicItem_Bracers_NAME",
-    "itemId": "Item_Camper_K33MagicItem_Bracers"
-  },
-  {
-    "Name": "Boots of {0}",
-    "itemId": "Item_Camper_K33MagicItem_Boots"
-  },
-  {
-    "Name": "Eye Of Vecna",
-    "itemId": "Item_Camper_K33MagicItem_VecnaEye"
-  },
-  {
-    "Name": "Hand Of Vecna",
-    "itemId": "Item_Camper_K33MagicItem_VecnaHand"
-  },
-  {
-    "Name": "Candelabra",
-    "itemId": "FireflyLantern"
-  },
-  {
     "Name": "Alex's Toolbox",
     "itemId": "Item_Camper_AlexsToolbox"
   },
   {
-    "Name": "Map",
-    "itemId": "Item_Camper_BeigeMap"
-  },
-  {
-    "Name": "Broken Key",
-    "itemId": "Item_Camper_BrokenKey"
-  },
-  {
     "Name": "Commodious Toolbox",
     "itemId": "Item_Camper_CommodiousToolbox"
-  },
-  {
-    "Name": "Dull Key",
-    "itemId": "Item_Camper_DullKey"
   },
   {
     "Name": "Engineer's Toolbox",
@@ -60,10 +28,6 @@
     "itemId": "Item_Camper_Flashlight03"
   },
   {
-    "Name": "Skeleton Key",
-    "itemId": "Item_Camper_Key"
-  },
-  {
     "Name": "Mechanic's Toolbox",
     "itemId": "Item_Camper_MechanicsToolbox"
   },
@@ -84,16 +48,48 @@
     "itemId": "Item_Camper_MedKit04"
   },
   {
-    "Name": "Rainbow Map",
-    "itemId": "Item_Camper_RainbowMap"
-  },
-  {
     "Name": "Toolbox",
     "itemId": "Item_Camper_Toolbox"
   },
   {
     "Name": "Worn-out Tools",
     "itemId": "Item_Camper_WornoutToolbox"
+  },
+  {
+    "Name": "Annotated Map",
+    "itemId": "Item_Camper_RainbowMap"
+  },
+  {
+    "Name": "Broken Key",
+    "itemId": "Item_Camper_BrokenKey"
+  },
+  {
+    "Name": "Dull Key",
+    "itemId": "Item_Camper_DullKey"
+  },
+  {
+    "Name": "Cryptic Map",
+    "itemId": "Item_Camper_FadedMap"
+  },
+  {
+    "Name": "Apprentice's Fog Vial",
+    "itemId": "Item_Survivor_MakeshiftFogVial"
+  },
+  {
+    "Name": "Artisan's Fog Vial",
+    "itemId": "Item_Survivor_PrototypeFogVial"
+  },
+  {
+    "Name": "Scribbled Map",
+    "itemId": "Item_Camper_BeigeMap"
+  },
+  {
+    "Name": "Skeleton Key",
+    "itemId": "Item_Camper_Key"
+  },
+  {
+    "Name": "Vigo's Fog Vial",
+    "itemId": "Item_Survivor_VigosFogVial"
   },
   {
     "Name": "Masquerade Flashlight",
@@ -112,12 +108,8 @@
     "itemId": "Item_Camper_Map_Spring2024"
   },
   {
-    "Name": "Void Crystal",
-    "itemId": "Item_Camper_VoidBomb_Halloween2024"
-  },
-  {
-    "Name": "@#ITEM_OnryoTape_Name",
-    "itemId": "FakeItem_Camper_OnryoTape"
+    "Name": "Festive Toolbox",
+    "itemId": "Item_Camper_LunarToolbox"
   },
   {
     "Name": "Anniversary Flashlight",
@@ -140,47 +132,75 @@
     "itemId": "Item_Camper_Firecracker_WinterEvent"
   },
   {
-    "Name": "Vaccine",
-    "itemId": "Item_Camper_ContaminationSerum"
-  },
-  {
-    "Name": "Flash Grenade",
-    "itemId": "Item_Camper_Firecracker_Flashbang"
-  },
-  {
-    "Name": "First Aid Spray",
-    "itemId": "Item_Camper_K29InfectionRemover"
-  },
-  {
-    "Name": "Festive Toolbox",
-    "itemId": "Item_Camper_LunarToolbox"
-  },
-  {
-    "Name": "EMP",
-    "itemId": "Item_Camper_K32Emp"
-  },
-  {
-    "Name": "",
-    "itemId": "Item_Blighted_Serum"
+    "Name": "Pocket Mirror",
+    "itemId": "Item_FragileObject"
   },
   {
     "Name": "Anniversary Toolbox",
     "itemId": "Item_Camper_AnniversaryToolbox"
   },
   {
-    "Name": "Pocket Mirror",
-    "itemId": "Item_FragileObject"
+    "Name": "Keycard",
+    "itemId": "Father_Key_Card"
+  },
+  {
+    "Name": "Blighted Serum",
+    "itemId": "Item_Blighted_Serum"
   },
   {
     "Name": "Third Year Party Starter",
     "itemId": "Item_Camper_Firecracker_Anniversary2019"
   },
   {
+    "Name": "Flash Grenade",
+    "itemId": "Item_Camper_Firecracker_Flashbang"
+  },
+  {
+    "Name": "Antidote",
+    "itemId": "Item_Survivor_CalamariContaminationAntidote"
+  },
+  {
+    "Name": "Candelabra",
+    "itemId": "FireflyLantern"
+  },
+  {
+    "Name": "Tape",
+    "itemId": "Item_Camper_OnryoTape"
+  },
+  {
     "Name": "Remote Flame Turret",
     "itemId": "Item_Camper_K33Turret"
   },
   {
-    "Name": "Keycard",
-    "itemId": "Father_Key_Card"
+    "Name": "EMP",
+    "itemId": "Item_Camper_K32Emp"
+  },
+  {
+    "Name": "First Aid Spray",
+    "itemId": "Item_Camper_K29InfectionRemover"
+  },
+  {
+    "Name": "Glowing Fungus",
+    "itemId": "Item_Survivor_K41Mushroom"
+  },
+  {
+    "Name": "Vaccine",
+    "itemId": "Item_Camper_ContaminationSerum"
+  },
+  {
+    "Name": "@#K36_MagicItem_Bracers_NAME",
+    "itemId": "Item_Camper_K36MagicItem_Bracers"
+  },
+  {
+    "Name": "Boots of {0}",
+    "itemId": "Item_Camper_K36MagicItem_Boots"
+  },
+  {
+    "Name": "Eye Of Vecna",
+    "itemId": "Item_Camper_K36MagicItem_VecnaEye"
+  },
+  {
+    "Name": "Hand Of Vecna",
+    "itemId": "Item_Camper_K36MagicItem_VecnaHand"
   }
 ]
