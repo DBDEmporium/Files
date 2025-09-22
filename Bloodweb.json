@@ -5253,6 +5253,18 @@
       "quantity": 3
     },
     {
+      "itemId": "K41P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "K41P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K41P02",
+      "quantity": 3
+    },
+    {
       "itemId": "K40P03",
       "quantity": 3
     },
@@ -5326,6 +5338,18 @@
     },
     {
       "itemId": "S48P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S49P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S49P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S49P03",
       "quantity": 3
     },
     {
@@ -5501,6 +5525,86 @@
       "quantity": 1
     },
     {
+      "itemId": "Addon_K41_01",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_02",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_03",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_04",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_05",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_06",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_07",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_08",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_09",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_10",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_11",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_12",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_13",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_14",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_15",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_16",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_17",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_18",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_19",
+      "quantity": 1
+    },
+    {
+      "itemId": "Addon_K41_20",
+      "quantity": 1
+    },
+    {
       "itemId": "Addon_K40_01",
       "quantity": 1
     },
@@ -5577,15 +5681,15 @@
       "quantity": 1
     },
     {
+      "itemId": "Addon_K40_20",
+      "quantity": 1
+    },
+    {
       "itemId": "Item_Camper_FadedMap",
       "quantity": 1
     },
     {
       "itemId": "Addon_FogVial_DenseFogExtract",
-      "quantity": 1
-    },
-    {
-      "itemId": "Addon_K40_20",
       "quantity": 1
     }
   ],
