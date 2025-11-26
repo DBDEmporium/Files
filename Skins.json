@@ -50294,6 +50294,166 @@
       "lastUpdatedAt": 1762120759147,
       "objectId": "MS_Legs026",
       "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K41_Head01_WinterEvent2025",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "OML_002",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "OML_003",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S46_Torso013",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "OK_Mask017",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "OK_Body017",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "OK_W017",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K34_Head012",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K34_Body012",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K34_W012",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S37_Head024",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S37_Torso024",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S37_Legs024",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K41_Body008",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K41_W008",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S28_Torso033",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "JP_Torso032",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S24_Torso027",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K35_W016",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K38_W010",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "TN_W025",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K40_outfit_010",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K35_outfit_015",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K20_outfit_010",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K37_outfit_009",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S22_outfit_013",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S41_outfit_020",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "MS_outfit_026",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "OK_outfit_017",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K34_outfit_012",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "S37_outfit_024",
+      "quantity": 1
+    },
+    {
+      "lastUpdatedAt": 1764089124,
+      "objectId": "K41_outfit_008",
+      "quantity": 1
     }
   ]
 }
