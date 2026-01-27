@@ -7,6 +7,106 @@
     },
     {
       "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_01",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_02",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_03",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_04",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_05",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_06",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_07",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_08",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_09",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_10",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_11",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_12",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_13",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_14",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_15",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_16",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_17",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_18",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_19",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "Addon_K42_20",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
       "objectId": "Item_Camper_FadedMap",
       "quantity": 50
     },
@@ -6752,6 +6852,36 @@
     },
     {
       "lastUpdatedAt": 1702582108,
+      "objectId": "S50P01",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "S50P02",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "S50P03",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "S51P01",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "S51P02",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "S51P03",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
       "objectId": "K41P01",
       "quantity": 3
     },
@@ -6763,6 +6893,21 @@
     {
       "lastUpdatedAt": 1702582108,
       "objectId": "K41P03",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "K42P01",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "K42P02",
+      "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "objectId": "K42P03",
       "quantity": 3
     }
   ]
