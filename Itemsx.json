@@ -230,5 +230,21 @@
   {
     "Name": "Anniversary Med-kit",
     "itemId": "Item_Camper_Medkit_Anniversary2020"
+  },
+  {
+    "Name": "Fog Vial",
+    "itemId": "Item_Camper_FogVial_Random"
+  },
+  {
+    "Name": "Banquet Flashlight",
+    "itemId": "Item_Camper_Flashlight_Anniversary2026"
+  },
+  {
+    "Name": "Banquet Med-Kit",
+    "itemId": "Item_Camper_Medkit_Anniversary2026"
+  },
+  {
+    "Name": "Banquet Toolbox",
+    "itemId": "Item_Camper_Toolbox_Anniversary2026"
   }
 ]
