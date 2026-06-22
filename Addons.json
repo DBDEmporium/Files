@@ -3574,5 +3574,165 @@
   {
     "Name": "Kintsugi Teacup",
     "itemId": "Addon_PhaseWalker_FathersGlasses"
+  },
+  {
+    "Name": "Garden Claw",
+    "itemId": "Addon_K43_01"
+  },
+  {
+    "Name": "Bent Wheel",
+    "itemId": "Addon_K43_02"
+  },
+  {
+    "Name": "Knitting Needle",
+    "itemId": "Addon_K43_03"
+  },
+  {
+    "Name": "Orderly's Shoe",
+    "itemId": "Addon_K43_04"
+  },
+  {
+    "Name": "Sleeping Bag",
+    "itemId": "Addon_K43_05"
+  },
+  {
+    "Name": "Bloody Smile",
+    "itemId": "Addon_K43_06"
+  },
+  {
+    "Name": "Toxic Waste",
+    "itemId": "Addon_K43_07"
+  },
+  {
+    "Name": "Party Noisemaker",
+    "itemId": "Addon_K43_08"
+  },
+  {
+    "Name": "Coroner's Coffee",
+    "itemId": "Addon_K43_09"
+  },
+  {
+    "Name": "Sauna Rock",
+    "itemId": "Addon_K43_10"
+  },
+  {
+    "Name": "Mirror Shards",
+    "itemId": "Addon_K43_11"
+  },
+  {
+    "Name": "Imprinted Aluminum",
+    "itemId": "Addon_K43_12"
+  },
+  {
+    "Name": "Two Nails",
+    "itemId": "Addon_K43_13"
+  },
+  {
+    "Name": "Eye Goop",
+    "itemId": "Addon_K43_14"
+  },
+  {
+    "Name": "Bloody Magazine",
+    "itemId": "Addon_K43_15"
+  },
+  {
+    "Name": "Burnt Fuse",
+    "itemId": "Addon_K43_16"
+  },
+  {
+    "Name": "Missing Corkscrew",
+    "itemId": "Addon_K43_17"
+  },
+  {
+    "Name": "Deputy's Badge",
+    "itemId": "Addon_K43_18"
+  },
+  {
+    "Name": "Dirty Money",
+    "itemId": "Addon_K43_19"
+  },
+  {
+    "Name": "Iridescent Boat Motor",
+    "itemId": "Addon_K43_20"
+  },
+  {
+    "Name": "Orderly ID",
+    "itemId": "Addon_K42_01"
+  },
+  {
+    "Name": "Bead Maze",
+    "itemId": "Addon_K42_02"
+  },
+  {
+    "Name": "Shattered Wrist Rocket",
+    "itemId": "Addon_K42_03"
+  },
+  {
+    "Name": "Stained Glass Mural",
+    "itemId": "Addon_K42_04"
+  },
+  {
+    "Name": "Smashed Cassette Deck",
+    "itemId": "Addon_K42_05"
+  },
+  {
+    "Name": "Bloody Roller Skate",
+    "itemId": "Addon_K42_06"
+  },
+  {
+    "Name": "Gutted Supercom",
+    "itemId": "Addon_K42_07"
+  },
+  {
+    "Name": "Mid-Century Radio",
+    "itemId": "Addon_K42_08"
+  },
+  {
+    "Name": "Clock Hands",
+    "itemId": "Addon_K42_09"
+  },
+  {
+    "Name": "Electrode Cap",
+    "itemId": "Addon_K42_10"
+  },
+  {
+    "Name": "Forged Death Certificate",
+    "itemId": "Addon_K42_11"
+  },
+  {
+    "Name": "Rabbit Remains",
+    "itemId": "Addon_K42_12"
+  },
+  {
+    "Name": "Neck Tendril",
+    "itemId": "Addon_K42_13"
+  },
+  {
+    "Name": "Victor's Razor Blade",
+    "itemId": "Addon_K42_14"
+  },
+  {
+    "Name": "Broken Skateboard",
+    "itemId": "Addon_K42_15"
+  },
+  {
+    "Name": "Black Widow Spider",
+    "itemId": "Addon_K42_16"
+  },
+  {
+    "Name": "Pizza Goggles",
+    "itemId": "Addon_K42_17"
+  },
+  {
+    "Name": "Electroshock Collar",
+    "itemId": "Addon_K42_18"
+  },
+  {
+    "Name": "Chess Piece",
+    "itemId": "Addon_K42_19"
+  },
+  {
+    "Name": "Iridescent Soteria Chip",
+    "itemId": "Addon_K42_20"
   }
 ]
