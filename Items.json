@@ -7094,6 +7094,21 @@
       "lastUpdatedAt": 1702582108,
       "itemId": "QuicheThemeOffering"
       "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "itemId": "Item_Camper_Flashlight_Anniversary2026",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "itemId": "Item_Camper_Medkit_Anniversary2026"
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "itemId": "Item_Camper_Toolbox_Anniversary2026"
+      "quantity": 50
     }
   ]
 }
