@@ -7084,6 +7084,16 @@
       "lastUpdatedAt": 1702582108,
       "objectId": "K43P03",
       "quantity": 3
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "itemId": "Anniversary2026Offering",
+      "quantity": 50
+    },
+    {
+      "lastUpdatedAt": 1702582108,
+      "itemId": "QuicheThemeOffering"
+      "quantity": 50
     }
   ]
 }
