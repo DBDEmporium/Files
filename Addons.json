@@ -3734,5 +3734,85 @@
   {
     "Name": "Iridescent Soteria Chip",
     "itemId": "Addon_K42_20"
+  },
+  {
+    "Name": "Koenrad's Gauntlet",
+    "itemId": "Addon_K44_01"
+  },
+  {
+    "Name": "Heretic's Mark",
+    "itemId": "Addon_K44_02"
+  },
+  {
+    "Name": "Holy Winged Icon",
+    "itemId": "Addon_K44_03"
+  },
+  {
+    "Name": "Prayer Kneeler",
+    "itemId": "Addon_K44_04"
+  },
+  {
+    "Name": "Electric Torch",
+    "itemId": "Addon_K44_05"
+  },
+  {
+    "Name": "Undying Flame",
+    "itemId": "Addon_K44_06"
+  },
+  {
+    "Name": "Aurora's Telereceptor",
+    "itemId": "Addon_K44_07"
+  },
+  {
+    "Name": "Magnetized Manacles",
+    "itemId": "Addon_K44_08"
+  },
+  {
+    "Name": "Order of Inquisition",
+    "itemId": "Addon_K44_09"
+  },
+  {
+    "Name": "Blindfold of the Devoted",
+    "itemId": "Addon_K44_10"
+  },
+  {
+    "Name": "Superheated Glass",
+    "itemId": "Addon_K44_11"
+  },
+  {
+    "Name": "Mark of the Adherent",
+    "itemId": "Addon_K44_12"
+  },
+  {
+    "Name": "Confessor's War Horn",
+    "itemId": "Addon_K44_13"
+  },
+  {
+    "Name": "Searcher's Skull",
+    "itemId": "Addon_K44_14"
+  },
+  {
+    "Name": "Chains of the Heretic",
+    "itemId": "Addon_K44_15"
+  },
+  {
+    "Name": "Improvised Detonators",
+    "itemId": "Addon_K44_16"
+  },
+  {
+    "Name": "Eyes of Gerhardt",
+    "itemId": "Addon_K44_17"
+  },
+  {
+    "Name": "Obsidian Feather",
+    "itemId": "Addon_K44_18"
+  },
+  {
+    "Name": "Crown of the Destroyer",
+    "itemId": "Addon_K44_19"
+  },
+  {
+    "Name": "Mirror of the Creators",
+    "itemId": "Addon_K44_20"
   }
 ]
